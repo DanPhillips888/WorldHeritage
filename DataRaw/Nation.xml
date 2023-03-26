@@ -1,0 +1,4567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Nation.xsd" generated="2022-07-05T16:43:17">
+<Nation>
+<Code>AAR</Code>
+<Nation>ANTARCTICA</Nation>
+<Subcont>8</Subcont>
+<Area>14000000</Area>
+<Population>1450</Population>
+<Capital>-</Capital>
+<Government>Neutral</Government>
+<Leader>-</Leader>
+<Language>International</Language>
+</Nation>
+<Nation>
+<Code>AFG</Code>
+<Nation>AFGHANISTAN</Nation>
+<Subcont>1C</Subcont>
+<Area>648000</Area>
+<Population>29929000</Population>
+<Year>2005</Year>
+<Capital>Kabul</Capital>
+<Government>Islamic Republic</Government>
+<Head>Theocracy</Head>
+<Leader>Burhanuddin Rabbani</Leader>
+<InPower>1996</InPower>
+<Province>Velayat</Province>
+<UN>1946</UN>
+<GDP>15676</GDP>
+<GDPPPP>18181</GDPPPP>
+<Language>Pushtu, Dari</Language>
+<Alternate>Ariana, Bactria</Alternate>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>AIA</Code>
+<Nation>ANGUILLA</Nation>
+<Subcont>4W</Subcont>
+<Area>90</Area>
+<Population>13500</Population>
+<Year>2011</Year>
+<Capital>The Valley</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<GDP>211</GDP>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>ALB</Code>
+<Nation>ALBANIA</Nation>
+<Subcont>2E</Subcont>
+<Area>28750</Area>
+<Population>2800000</Population>
+<Year>2011</Year>
+<Capital>Tirana</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Sali Berisha</Leader>
+<InPower>1992</InPower>
+<Province>qark</Province>
+<UN>1955</UN>
+<GDP>11783</GDP>
+<GDPPPP>12847</GDPPPP>
+<Language>Albanian</Language>
+<Alternate>Shqiperise, Illyria</Alternate>
+<ProvGroup>P</ProvGroup>
+<Land_x0020_Area>27400</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>ALG</Code>
+<Nation>ALGERIA</Nation>
+<Subcont>3N</Subcont>
+<Area>2382000</Area>
+<Population>34080000</Population>
+<Year>2008</Year>
+<Capital>Alger</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Bouteflika</Leader>
+<InPower>1998</InPower>
+<Province>Wilaya</Province>
+<UN>1962</UN>
+<GDP>158650</GDP>
+<GDPPPP>190709</GDPPPP>
+<Language>French, Arabic</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>33506000</Estimate>
+</Nation>
+<Nation>
+<Code>AND</Code>
+<Nation>ANDORRA</Nation>
+<Subcont>2W</Subcont>
+<Area>450</Area>
+<Population>76000</Population>
+<Year>2012</Year>
+<Capital>Andorra la Vieja</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/Regents</Head>
+<Leader>Prince</Leader>
+<Province>parish</Province>
+<UN>1993</UN>
+<GDP>3491</GDP>
+<Language>Spanish, French</Language>
+</Nation>
+<Nation>
+<Code>ANG</Code>
+<Nation>ANGOLA</Nation>
+<Subcont>3S</Subcont>
+<Area>1247000</Area>
+<Population>25789000</Population>
+<Year>2014</Year>
+<Capital>Luanda</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Jose Eduardo dos Santos</Leader>
+<InPower>1979</InPower>
+<UN>1976</UN>
+<GDP>82470</GDP>
+<GDPPPP>100948</GDPPPP>
+<Language>Portuguese</Language>
+<Estimate>13314000</Estimate>
+</Nation>
+<Nation>
+<Code>ANT</Code>
+<Nation>ANTIGUA &amp; BARBUDA</Nation>
+<Subcont>4W</Subcont>
+<Area>440</Area>
+<Population>81800</Population>
+<Year>2011</Year>
+<Capital>St. John&apos;s</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<Leader>Lester Bird</Leader>
+<InPower>1994</InPower>
+<Province>Parish</Province>
+<UN>1981</UN>
+<GDP>1118</GDP>
+<GDPPPP>1187</GDPPPP>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+<Estimate>72000</Estimate>
+</Nation>
+<Nation>
+<Code>ARG</Code>
+<Nation>ARGENTINA</Nation>
+<Subcont>5</Subcont>
+<Area>2767000</Area>
+<Population>40117000</Population>
+<Year>2010</Year>
+<Capital>Buenos Aires</Capital>
+<Government>Federal Republic</Government>
+<Head>Pres</Head>
+<Leader>Fernando de la Rua</Leader>
+<InPower>1996</InPower>
+<Province>Provincia</Province>
+<UN>1945</UN>
+<Currency>Peso</Currency>
+<GDP>370263</GDP>
+<GDPPPP>447644</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>2737000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>ARM</Code>
+<Nation>ARMENIA</Nation>
+<Subcont>2E</Subcont>
+<Area>30000</Area>
+<Population>2983000</Population>
+<Year>2005</Year>
+<Capital>Yerevan</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Levon Ter-Petrosian</Leader>
+<InPower>1991</InPower>
+<Province>Oblast</Province>
+<UN>1992</UN>
+<Currency>Rouble</Currency>
+<GDP>9371</GDP>
+<GDPPPP>10106</GDPPPP>
+<Language>Armenian, Russian</Language>
+<ProvGroup>P</ProvGroup>
+<Land_x0020_Area>28400</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>ARU</Code>
+<Nation>ARUBA</Nation>
+<Subcont>4W</Subcont>
+<Area>193</Area>
+<Population>101500</Population>
+<Year>2010</Year>
+<Capital>Orangestad</Capital>
+<Government>Dutch Colony</Government>
+<Leader>see Netherlands</Leader>
+<GDP>2456</GDP>
+<Language>Dutch</Language>
+</Nation>
+<Nation>
+<Code>ASA</Code>
+<Nation>AMERICAN SAMOA</Nation>
+<Subcont>6C</Subcont>
+<Area>200</Area>
+<Population>55500</Population>
+<Year>2010</Year>
+<Capital>Pago Pago</Capital>
+<Government>US Territory</Government>
+<Leader>see USA</Leader>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+<Estimate>72000</Estimate>
+</Nation>
+<Nation>
+<Code>AUS</Code>
+<Nation>AUSTRALIA</Nation>
+<Subcont>6A</Subcont>
+<Area>7687000</Area>
+<Population>21508000</Population>
+<Year>2011</Year>
+<Capital>Canberra</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<Leader>Malcolm Turnbull</Leader>
+<InPower>2016</InPower>
+<Province>State</Province>
+<UN>1945</UN>
+<Currency>$ Australian</Currency>
+<Exchange>1</Exchange>
+<GDP>1271945</GDP>
+<GDPPPP>1488221</GDPPPP>
+<Language>English</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>20985000</Estimate>
+<Land_x0020_Area>7618000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>AUT</Code>
+<Nation>AUSTRIA</Nation>
+<Subcont>2W</Subcont>
+<Area>84000</Area>
+<Population>8430500</Population>
+<Year>2011</Year>
+<Capital>Wien</Capital>
+<Government>Federal Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Heinz Fischer</Leader>
+<Province>Province</Province>
+<UN>1955</UN>
+<Currency>Schilling</Currency>
+<GDP>379047</GDP>
+<GDPPPP>419243</GDPPPP>
+<Language>German</Language>
+<Alternate>Osterreich</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>8213000</Estimate>
+<Land_x0020_Area>82700</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>AZE</Code>
+<Nation>AZERBAIJAN</Nation>
+<Subcont>2E</Subcont>
+<Area>87000</Area>
+<Population>7912000</Population>
+<Year>2005</Year>
+<Capital>Baku</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Gaidar Aliyev</Leader>
+<InPower>1993</InPower>
+<Province>Oblast</Province>
+<UN>1992</UN>
+<Currency>Rouble</Currency>
+<GDP>51797</GDP>
+<GDPPPP>62321</GDPPPP>
+<Language>Azeri, Russian</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>8448000</Estimate>
+<Land_x0020_Area>86000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BAH</Code>
+<Nation>BAHAMAS</Nation>
+<Subcont>4W</Subcont>
+<Area>14000</Area>
+<Population>302000</Population>
+<Year>2005</Year>
+<Capital>Nassau</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<Leader>Hubert Ingraham</Leader>
+<InPower>1992</InPower>
+<UN>1973</UN>
+<GDP>7702</GDP>
+<GDPPPP>8074</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>335000</Estimate>
+<Land_x0020_Area>10000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BAN</Code>
+<Nation>BANGLADESH</Nation>
+<Subcont>1C</Subcont>
+<Area>143000</Area>
+<Population>144044000</Population>
+<Year>2011</Year>
+<Capital>Dhaka</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Hasima Wazed</Leader>
+<InPower>1996</InPower>
+<Province>anchal</Province>
+<UN>1974</UN>
+<Currency>Rupee</Currency>
+<GDP>99689</GDP>
+<GDPPPP>113032</GDPPPP>
+<Language>English, Bengali</Language>
+<Alternate>East Bengal</Alternate>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>134000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BAR</Code>
+<Nation>BARBADOS</Nation>
+<Subcont>4W</Subcont>
+<Area>430</Area>
+<Population>278000</Population>
+<Year>2010</Year>
+<Capital>Bridgetown</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<UN>1966</UN>
+<GDP>3963</GDP>
+<GDPPPP>4478</GDPPPP>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>BDI</Code>
+<Nation>BURUNDI</Nation>
+<Subcont>3S</Subcont>
+<Area>28000</Area>
+<Population>8053000</Population>
+<Year>2008</Year>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Silvestre NtibantuNganya</Leader>
+<InPower>1994</InPower>
+<UN>1962</UN>
+<GDP>1481</GDP>
+<GDPPPP>2356</GDPPPP>
+<Language>French</Language>
+<Estimate>8075000</Estimate>
+<Land_x0020_Area>25600</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BEL</Code>
+<Nation>BELGIUM</Nation>
+<Subcont>2W</Subcont>
+<Area>30500</Area>
+<Population>11151000</Population>
+<Year>2014</Year>
+<Capital>Brussels</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>Herman van Rompuy</Leader>
+<Province>Province</Province>
+<UN>1945</UN>
+<Currency>Franc</Currency>
+<GDP>469347</GDP>
+<GDPPPP>513396</GDPPPP>
+<Language>Flemish, French</Language>
+<Alternate>Belgique</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>10516000</Estimate>
+</Nation>
+<Nation>
+<Code>BEN</Code>
+<Nation>BENIN</Nation>
+<Subcont>3S</Subcont>
+<Area>113000</Area>
+<Population>8439000</Population>
+<Year>2005</Year>
+<Capital>Cotonou</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Nicephore Soglo</Leader>
+<InPower>1991</InPower>
+<UN>1960</UN>
+<GDP>6558</GDP>
+<GDPPPP>7306</GDPPPP>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>7715000</Estimate>
+<Land_x0020_Area>110600</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BER</Code>
+<Nation>BERMUDA</Nation>
+<Subcont>7N</Subcont>
+<Area>53</Area>
+<Population>65000</Population>
+<Year>2010</Year>
+<Capital>Hamilton</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<Province>parish</Province>
+<GDP>6015</GDP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>BHR</Code>
+<Nation>BAHRAIN</Nation>
+<Subcont>1W</Subcont>
+<Area>665</Area>
+<Population>1235000</Population>
+<Year>2010</Year>
+<Capital>Manama</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>King/PM</Head>
+<Leader>Khalifa al-Khalifa</Leader>
+<InPower>1970</InPower>
+<UN>1971</UN>
+<GDP>22945</GDP>
+<GDPPPP>26108</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>738000</Estimate>
+</Nation>
+<Nation>
+<Code>BHU</Code>
+<Nation>BHUTAN</Nation>
+<Subcont>1C</Subcont>
+<Area>48000</Area>
+<Population>678000</Population>
+<Year>2005</Year>
+<Capital>Thimphu</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>King/PM</Head>
+<Leader>Jigme Singye Wangchuk</Leader>
+<InPower>1972</InPower>
+<Province>dzongkhag</Province>
+<UN>1971</UN>
+<GDP>1486</GDP>
+<GDPPPP>1488</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>812000</Estimate>
+</Nation>
+<Nation>
+<Code>BIH</Code>
+<Nation>BOSNIA &amp; HERZEGOVINA</Nation>
+<Subcont>2E</Subcont>
+<Area>51000</Area>
+<Population>4067000</Population>
+<Year>2005</Year>
+<Capital>Sarajevo</Capital>
+<Government>Federal Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Alija Izetbegovic</Leader>
+<InPower>1990</InPower>
+<Province>Cantons</Province>
+<UN>1992</UN>
+<GDP>16837</GDP>
+<GDPPPP>17965</GDPPPP>
+<Language>Bosnian, Serbo-Croat</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>4672000</Estimate>
+</Nation>
+<Nation>
+<Code>BIO</Code>
+<Nation>British Indian Ocean Territory</Nation>
+<Subcont>8</Subcont>
+<Area>60</Area>
+<Population>50</Population>
+<Year>2005</Year>
+<Capital>-</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<Language>English</Language>
+<Alternate>Chagos Archipelago</Alternate>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>BIZ</Code>
+<Nation>BELIZE</Nation>
+<Subcont>4C</Subcont>
+<Area>23000</Area>
+<Population>280000</Population>
+<Year>2005</Year>
+<Capital>Belmopan</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<Leader>Manuel Esquivel</Leader>
+<InPower>1993</InPower>
+<UN>1981</UN>
+<GDP>1401</GDP>
+<GDPPPP>1474</GDPPPP>
+<Language>Spanish</Language>
+<Alternate>British Honduras</Alternate>
+<Estimate>312000</Estimate>
+</Nation>
+<Nation>
+<Code>BLR</Code>
+<Nation>BELARUS</Nation>
+<Subcont>2E</Subcont>
+<Area>208000</Area>
+<Population>9468000</Population>
+<Year>2014</Year>
+<Capital>Minsk</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Aleksandr Lukashenko</Leader>
+<InPower>1994</InPower>
+<Province>Oblast</Province>
+<UN>1945</UN>
+<GDP>54713</GDP>
+<GDPPPP>55483</GDPPPP>
+<Language>Belorussian</Language>
+<Alternate>White Russia</Alternate>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>BOL</Code>
+<Nation>BOLIVIA</Nation>
+<Subcont>5</Subcont>
+<Area>1099000</Area>
+<Population>10027000</Population>
+<Year>2012</Year>
+<Capital>La Paz</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Gonzalo Sanchez</Leader>
+<InPower>1993</InPower>
+<Province>Departamento</Province>
+<UN>1945</UN>
+<Currency>Boliviano</Currency>
+<Exchange>6.8</Exchange>
+<GDP>19640</GDP>
+<GDPPPP>24604</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>9493000</Estimate>
+<Land_x0020_Area>1084000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BON</Code>
+<Nation>BONAIRE</Nation>
+<Subcont>4W</Subcont>
+<Area>322</Area>
+<Population>14000</Population>
+<Year>2000</Year>
+<Capital>Kralendjik</Capital>
+<Government>Netherlands</Government>
+<Leader>see Netherlands</Leader>
+<Province>eilandgebied</Province>
+<GDP>4078</GDP>
+<Language>Dutch</Language>
+<Alternate>Netherlands Carribean</Alternate>
+</Nation>
+<Nation>
+<Code>BOT</Code>
+<Nation>BOTSWANA</Nation>
+<Subcont>3S</Subcont>
+<Area>600000</Area>
+<Population>2025000</Population>
+<Year>2011</Year>
+<Capital>Gaborone</Capital>
+<Government>Republic</Government>
+<Head>PM/Queen</Head>
+<Leader>Quett Masire</Leader>
+<InPower>1980</InPower>
+<Province>District</Province>
+<UN>1966</UN>
+<GDP>14857</GDP>
+<GDPPPP>17570</GDPPPP>
+<Language>English</Language>
+<Alternate>Bechuanaland</Alternate>
+<ProvGroup>P</ProvGroup>
+<Estimate>1893000</Estimate>
+<Land_x0020_Area>585000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BOU</Code>
+<Nation>Bouvet Island</Nation>
+<Subcont>7S</Subcont>
+<Area>58</Area>
+<Population>0</Population>
+<Year>0</Year>
+<Government>Norwegian</Government>
+<Leader>see Norway</Leader>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>Norwegian</Language>
+<Estimate>0</Estimate>
+<Land_x0020_Area>0</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BRA</Code>
+<Nation>BRAZIL</Nation>
+<Subcont>5</Subcont>
+<Area>8515000</Area>
+<Population>190733000</Population>
+<Year>2010</Year>
+<Capital>Brasilia</Capital>
+<Government>Federal Republic</Government>
+<Head>Pres</Head>
+<Leader>Fernando Cardoso</Leader>
+<InPower>1995</InPower>
+<Province>State</Province>
+<UN>1945</UN>
+<Currency>Cruzeiro</Currency>
+<GDP>2088966</GDP>
+<GDPPPP>2492908</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>186771000</Estimate>
+<Land_x0020_Area>8457000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BRU</Code>
+<Nation>BRUNEI DARUSSALAM</Nation>
+<Subcont>1S</Subcont>
+<Area>5765</Area>
+<Population>393000</Population>
+<Year>2011</Year>
+<Capital>Bandar Seri Begawan</Capital>
+<Government>Absolute monarchy</Government>
+<Head>Sultan</Head>
+<Leader>Sultan Waddaulah</Leader>
+<UN>1984</UN>
+<GDP>13024</GDP>
+<GDPPPP>15533</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>403000</Estimate>
+<Land_x0020_Area>5300</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>BUL</Code>
+<Nation>BULGARIA</Nation>
+<Subcont>2E</Subcont>
+<Area>111000</Area>
+<Population>7246000</Population>
+<Year>2013</Year>
+<Capital>Sofia</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Georgi Parvanov</Leader>
+<InPower>1997</InPower>
+<Province>Province</Province>
+<UN>1955</UN>
+<GDP>47702</GDP>
+<GDPPPP>53514</GDPPPP>
+<Language>Bulgarian</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>7673000</Estimate>
+</Nation>
+<Nation>
+<Code>BUR</Code>
+<Nation>BURKINA FASO</Nation>
+<Subcont>3S</Subcont>
+<Area>274000</Area>
+<Population>1373000</Population>
+<Year>2006</Year>
+<Capital>Ouagadougou</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Blaise Compaore</Leader>
+<InPower>1987</InPower>
+<UN>1960</UN>
+<GDP>8559</GDP>
+<GDPPPP>9981</GDPPPP>
+<Language>French</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>CAF</Code>
+<Nation>CENTRAL AFRICA</Nation>
+<Subcont>3S</Subcont>
+<Area>623000</Area>
+<Population>3800000</Population>
+<Year>2005</Year>
+<Capital>Bangui</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Ange-Felix Patasse</Leader>
+<InPower>1993</InPower>
+<UN>1960</UN>
+<GDP>1984</GDP>
+<GDPPPP>2165</GDPPPP>
+<Language>French</Language>
+<Alternate>Oubangi-Shari</Alternate>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>CAM</Code>
+<Nation>CAMBODIA</Nation>
+<Subcont>1S</Subcont>
+<Area>181000</Area>
+<Population>13809000</Population>
+<Year>2005</Year>
+<Capital>Phnom Penh</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>Hun Sen</Leader>
+<InPower>1998</InPower>
+<UN>1955</UN>
+<GDP>11272</GDP>
+<GDPPPP>12861</GDPPPP>
+<Language>Khmer, French</Language>
+<Alternate>Kampuchea</Alternate>
+<ProvGroup>P</ProvGroup>
+<Estimate>15507000</Estimate>
+<Land_x0020_Area>176500</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>CAN</Code>
+<Nation>CANADA</Nation>
+<Subcont>4N</Subcont>
+<Area>9970000</Area>
+<Population>33477000</Population>
+<Year>2011</Year>
+<Capital>Ottawa</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<Leader>Jean Chretien</Leader>
+<InPower>1993</InPower>
+<Province>Province</Province>
+<UN>1945</UN>
+<Currency>Dollar</Currency>
+<GDP>1577040</GDP>
+<GDPPPP>1736869</GDPPPP>
+<Language>English, French</Language>
+<ProvGroup>S</ProvGroup>
+<Land_x0020_Area>9221000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>CAY</Code>
+<Nation>CAYMAN ISLANDS</Nation>
+<Subcont>4W</Subcont>
+<Area>260</Area>
+<Population>55000</Population>
+<Year>2010</Year>
+<Capital>Georgetown</Capital>
+<Government>British Colony</Government>
+<Leader>see Britain</Leader>
+<GDP>3208</GDP>
+<Language>English</Language>
+<Estimate>50000</Estimate>
+</Nation>
+<Nation>
+<Code>CGO</Code>
+<Nation>CONGO</Nation>
+<Subcont>3S</Subcont>
+<Area>342000</Area>
+<Population>3696000</Population>
+<Year>2007</Year>
+<Capital>Brazzaville</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Pascal Lissouba</Leader>
+<InPower>1992</InPower>
+<Province>departement</Province>
+<UN>1960</UN>
+<GDP>10775</GDP>
+<GDPPPP>14769</GDPPPP>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>3775000</Estimate>
+</Nation>
+<Nation>
+<Code>CHA</Code>
+<Nation>CHAD</Nation>
+<Subcont>3N</Subcont>
+<Area>1284000</Area>
+<Population>11176000</Population>
+<Year>2009</Year>
+<Capital>N&apos;Djamena</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Idriss Deby</Leader>
+<InPower>1990</InPower>
+<UN>1960</UN>
+<GDP>8166</GDP>
+<GDPPPP>9344</GDPPPP>
+<Language>French</Language>
+<Land_x0020_Area>1259000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>CHI</Code>
+<Nation>CHILE</Nation>
+<Subcont>5</Subcont>
+<Area>757000</Area>
+<Population>16342000</Population>
+<Year>2012</Year>
+<Capital>Santiago</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Ricardo Lagos</Leader>
+<InPower>2000</InPower>
+<Province>Region</Province>
+<UN>1945</UN>
+<Currency>Peso</Currency>
+<GDP>203443</GDP>
+<GDPPPP>248411</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>749000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>CHN</Code>
+<Nation>CHINA</Nation>
+<Subcont>1E</Subcont>
+<Area>9561000</Area>
+<Population>1339725000</Population>
+<Year>2010</Year>
+<Capital>Beijing</Capital>
+<Government>Communist Republic</Government>
+<Head>1Party</Head>
+<Leader>Jiang Zemin</Leader>
+<InPower>1997</InPower>
+<Province>sheng</Province>
+<UN>1945</UN>
+<Currency>Renminbi</Currency>
+<GDP>5739358</GDP>
+<GDPPPP>7298147</GDPPPP>
+<Language>Chinese</Language>
+<Alternate>Zhongguo</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>1325082000</Estimate>
+<Land_x0020_Area>9326000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>CIV</Code>
+<Nation>COTE D&apos;IVOIRE</Nation>
+<Subcont>3S</Subcont>
+<Area>322000</Area>
+<Population>17298000</Population>
+<Year>2005</Year>
+<Capital>Yamoussoukro</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Robert Guei</Leader>
+<InPower>1999</InPower>
+<UN>1960</UN>
+<GDP>22780</GDP>
+<GDPPPP>24096</GDPPPP>
+<Language>French</Language>
+<Alternate>Ivory Coast</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>20169000</Estimate>
+<Land_x0020_Area>318000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>CMR</Code>
+<Nation>CAMEROON</Nation>
+<Subcont>3S</Subcont>
+<Area>465000</Area>
+<Population>17464000</Population>
+<Year>2005</Year>
+<Capital>Yaounde</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Paul Biya</Leader>
+<InPower>1982</InPower>
+<Province>Province</Province>
+<UN>1960</UN>
+<GDP>23649</GDP>
+<GDPPPP>25759</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>17775000</Estimate>
+<Land_x0020_Area>469000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>COD</Code>
+<Nation>CONGO DEMOCRATIC REPUBLIC</Nation>
+<Subcont>3S</Subcont>
+<Area>2345000</Area>
+<Population>74809000</Population>
+<Year>2005</Year>
+<Capital>Kinshasa</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Laurent Kabila</Leader>
+<InPower>1997</InPower>
+<Province>Province</Province>
+<UN>1960</UN>
+<GDP>13230</GDP>
+<GDPPPP>15668</GDPPPP>
+<Language>French</Language>
+<Alternate>Zaire</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>74809000</Estimate>
+<Land_x0020_Area>2268000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>COK</Code>
+<Nation>COOK ISLANDS</Nation>
+<Subcont>6C</Subcont>
+<Area>240</Area>
+<Population>17800</Population>
+<Year>2011</Year>
+<Capital>Avarua</Capital>
+<Government>Commonwealth Realm (NZ)</Government>
+<Head>PM/Queen</Head>
+<Currency>$ NZ</Currency>
+<GDP>248</GDP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>20000</Estimate>
+</Nation>
+<Nation>
+<Code>COL</Code>
+<Nation>COLOMBIA</Nation>
+<Subcont>5</Subcont>
+<Area>1139000</Area>
+<Population>44531000</Population>
+<Year>2005</Year>
+<Capital>Bogota</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Andres Pastrana</Leader>
+<InPower>1998</InPower>
+<Province>Departamento</Province>
+<UN>1945</UN>
+<GDP>288086</GDP>
+<GDPPPP>328422</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>47290000</Estimate>
+<Land_x0020_Area>1039000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>COM</Code>
+<Nation>COMORO ISLANDS</Nation>
+<Subcont>3S</Subcont>
+<Area>2100</Area>
+<Population>671000</Population>
+<Year>2005</Year>
+<Capital>Moroni</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<UN>1975</UN>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>681000</Estimate>
+</Nation>
+<Nation>
+<Code>CPV</Code>
+<Nation>CABO VERDE</Nation>
+<Subcont>3N</Subcont>
+<Area>4000</Area>
+<Population>492000</Population>
+<Year>2010</Year>
+<Capital>Praia</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Province>municipio</Province>
+<UN>1975</UN>
+<GDP>1609</GDP>
+<GDPPPP>1903</GDPPPP>
+<Language>Portuguese</Language>
+<Estimate>494000</Estimate>
+</Nation>
+<Nation>
+<Code>CRC</Code>
+<Nation>COSTA RICA</Nation>
+<Subcont>4C</Subcont>
+<Area>51000</Area>
+<Population>4302000</Population>
+<Year>2011</Year>
+<Capital>San Jose</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Jose Maria Figueres</Leader>
+<InPower>1994</InPower>
+<Province>Provinces</Province>
+<UN>1945</UN>
+<Currency>Peso</Currency>
+<GDP>35891</GDP>
+<GDPPPP>40947</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>4504000</Estimate>
+</Nation>
+<Nation>
+<Code>CRO</Code>
+<Nation>CROATIA</Nation>
+<Subcont>2E</Subcont>
+<Area>57000</Area>
+<Population>4285000</Population>
+<Year>2011</Year>
+<Capital>Zagreb</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Frano Tudjman</Leader>
+<Province>zupanija</Province>
+<UN>1991</UN>
+<GDP>60852</GDP>
+<GDPPPP>63842</GDPPPP>
+<Language>Serbo-Croat</Language>
+<Alternate>Hrvatska</Alternate>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>CUB</Code>
+<Nation>CUBA</Nation>
+<Subcont>4W</Subcont>
+<Area>110000</Area>
+<Population>11167000</Population>
+<Year>2012</Year>
+<Capital>La Habana</Capital>
+<Government>Republic</Government>
+<Head>1Party</Head>
+<Leader>Fidel Castro</Leader>
+<InPower>1959</InPower>
+<Province>Provincia</Province>
+<UN>1945</UN>
+<GDP>64220</GDP>
+<Language>Spanish</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>11365000</Estimate>
+</Nation>
+<Nation>
+<Code>CUR</Code>
+<Nation>CURACAO</Nation>
+<Subcont>4W</Subcont>
+<Area>444</Area>
+<Population>130000</Population>
+<Year>2000</Year>
+<Capital>Willemstad</Capital>
+<Government>Netherlands</Government>
+<Leader>see Netherlands</Leader>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>Dutch</Language>
+<Estimate>0</Estimate>
+<Land_x0020_Area>0</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>CYP</Code>
+<Nation>CYPRUS</Nation>
+<Subcont>2E</Subcont>
+<Area>9250</Area>
+<Population>780000</Population>
+<Year>2005</Year>
+<Capital>Nicosia</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Demetris Christofias</Leader>
+<InPower>1993</InPower>
+<UN>1960</UN>
+<GDP>22957</GDP>
+<GDPPPP>24949</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>971000</Estimate>
+</Nation>
+<Nation>
+<Code>CZE</Code>
+<Nation>CZECH REPUBLIC</Nation>
+<Subcont>2E</Subcont>
+<Area>79000</Area>
+<Population>10437000</Population>
+<Year>2011</Year>
+<Capital>Praha</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Vaclav Klaus</Leader>
+<InPower>1993</InPower>
+<Province>Kraj</Province>
+<UN>1945</UN>
+<Currency>Koruna</Currency>
+<GDP>197674</GDP>
+<GDPPPP>215265</GDPPPP>
+<Language>Czech</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>10209000</Estimate>
+<Land_x0020_Area>77300</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>DEN</Code>
+<Nation>DENMARK</Nation>
+<Subcont>2W</Subcont>
+<Area>43000</Area>
+<Population>5580000</Population>
+<Year>2012</Year>
+<Capital>Copenhagen</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/Queen</Head>
+<Leader>Anders Rasmussen</Leader>
+<Province>Province</Province>
+<UN>1945</UN>
+<Currency>Krone</Currency>
+<GDP>309866</GDP>
+<GDPPPP>333238</GDPPPP>
+<Language>Danish</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>5439000</Estimate>
+<Land_x0020_Area>42400</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>DJI</Code>
+<Nation>DJIBOUTI</Nation>
+<Subcont>3S</Subcont>
+<Area>23000</Area>
+<Population>608000</Population>
+<Year>2005</Year>
+<Capital>Djibouti</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Hassan Gouled Aptidon</Leader>
+<UN>1977</UN>
+<GDP>1140</GDP>
+<GDPPPP>1239</GDPPPP>
+<Language>French</Language>
+<Alternate>French Somaliland</Alternate>
+<Estimate>791000</Estimate>
+</Nation>
+<Nation>
+<Code>DMA</Code>
+<Nation>DOMINICA</Nation>
+<Subcont>4W</Subcont>
+<Area>750</Area>
+<Population>71000</Population>
+<Year>2011</Year>
+<Capital>Roseau</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Edison James</Leader>
+<InPower>1995</InPower>
+<UN>1978</UN>
+<GDP>476</GDP>
+<GDPPPP>489</GDPPPP>
+<Language>English</Language>
+<Estimate>71000</Estimate>
+</Nation>
+<Nation>
+<Code>DOM</Code>
+<Nation>DOMINICAN REPUBLIC</Nation>
+<Subcont>4W</Subcont>
+<Area>47000</Area>
+<Population>9445000</Population>
+<Year>2010</Year>
+<Capital>Santo Domingo</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Hipolito Dominguez</Leader>
+<InPower>2002</InPower>
+<Province>province</Province>
+<UN>1945</UN>
+<GDP>51576</GDP>
+<GDPPPP>56700</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>9260000</Estimate>
+</Nation>
+<Nation>
+<Code>ECU</Code>
+<Nation>ECUADOR</Nation>
+<Subcont>5</Subcont>
+<Area>284000</Area>
+<Population>14483000</Population>
+<Year>2011</Year>
+<Capital>Quito</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Gustavo Noboa</Leader>
+<InPower>2000</InPower>
+<Province>provincia</Province>
+<UN>1945</UN>
+<Currency>Sucre</Currency>
+<GDP>58910</GDP>
+<GDPPPP>66381</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>272000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>EGY</Code>
+<Nation>EGYPT</Nation>
+<Subcont>3N</Subcont>
+<Area>1002000</Area>
+<Population>77506000</Population>
+<Year>2005</Year>
+<Capital>Cairo</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Hosni Mubarak</Leader>
+<InPower>1981</InPower>
+<Province>Governorate</Province>
+<UN>1945</UN>
+<GDP>215272</GDP>
+<GDPPPP>235719</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>995000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>ERI</Code>
+<Nation>ERITREA</Nation>
+<Subcont>3S</Subcont>
+<Area>121000</Area>
+<Population>4562000</Population>
+<Year>2005</Year>
+<Capital>Asmara</Capital>
+<Government>Republic</Government>
+<Head>1Party</Head>
+<Leader>Issaias Afwerki</Leader>
+<InPower>1993</InPower>
+<Province>zoba</Province>
+<UN>1993</UN>
+<GDP>2254</GDP>
+<GDPPPP>2609</GDPPPP>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>ESA</Code>
+<Nation>EL SALVADOR</Nation>
+<Subcont>4C</Subcont>
+<Area>21000</Area>
+<Population>5744000</Population>
+<Year>2007</Year>
+<Capital>San Salvador</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Armando Calderon</Leader>
+<InPower>1994</InPower>
+<Province>Department</Province>
+<UN>1945</UN>
+<Currency>Colon</Currency>
+<Exchange>14</Exchange>
+<GDP>21215</GDP>
+<GDPPPP>22761</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>6705000</Estimate>
+</Nation>
+<Nation>
+<Code>ESP</Code>
+<Nation>SPAIN</Nation>
+<Subcont>2W</Subcont>
+<Area>505000</Area>
+<Population>46816000</Population>
+<Year>2013</Year>
+<Capital>Madrid</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>JL Rodriguez Zapatero</Leader>
+<Province>Community</Province>
+<UN>1955</UN>
+<Currency>Peseta</Currency>
+<GDP>1407322</GDP>
+<GDPPPP>1493513</GDPPPP>
+<Language>Spanish</Language>
+<Alternate>Espana, Tedesco</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>45003000</Estimate>
+<Land_x0020_Area>500000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>EST</Code>
+<Nation>ESTONIA</Nation>
+<Subcont>2E</Subcont>
+<Area>43400</Area>
+<Population>1294300</Population>
+<Year>2011</Year>
+<Capital>Tallinn</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Toomas Elves</Leader>
+<Province>maakond</Province>
+<UN>1991</UN>
+<GDP>18958</GDP>
+<GDPPPP>22225</GDPPPP>
+<Language>Estonian</Language>
+<Alternate>Eesti</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>1625000</Estimate>
+</Nation>
+<Nation>
+<Code>ETH</Code>
+<Nation>ETHIOPIA</Nation>
+<Subcont>3S</Subcont>
+<Area>1128000</Area>
+<Population>79221000</Population>
+<Year>2008</Year>
+<Capital>Addis Ababa</Capital>
+<Government>Federal Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Meles Zenawi</Leader>
+<InPower>1995</InPower>
+<Province>kilil</Province>
+<UN>1945</UN>
+<GDP>26928</GDP>
+<GDPPPP>31256</GDPPPP>
+<Language>Amharic</Language>
+<Alternate>Ab</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>79221000</Estimate>
+<Land_x0020_Area>1120000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>FAA</Code>
+<Nation>French Southern Ocean Territor</Nation>
+<Subcont>8</Subcont>
+<Area>8000</Area>
+<Population>90</Population>
+<Year>2005</Year>
+<Capital>-</Capital>
+<Government>French Territory</Government>
+<Leader>see France</Leader>
+<Language>French</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>FGU</Code>
+<Nation>FRENCH GUIANA</Nation>
+<Subcont>5</Subcont>
+<Area>91000</Area>
+<Population>231000</Population>
+<Year>2010</Year>
+<Capital>Cayenne</Capital>
+<Government>French Department</Government>
+<Leader>see France</Leader>
+<Province>Arondissemt</Province>
+<UN>1999</UN>
+<Language>Spanish</Language>
+<Alternate>Abyssinia</Alternate>
+<ProvGroup>P</ProvGroup>
+<Estimate>205000</Estimate>
+<Land_x0020_Area>89000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>FIJ</Code>
+<Nation>FIJI</Nation>
+<Subcont>6B</Subcont>
+<Area>18000</Area>
+<Population>837000</Population>
+<Year>2007</Year>
+<Capital>Suva</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Sitiveni Rabuka</Leader>
+<InPower>1992</InPower>
+<UN>1970</UN>
+<GDP>3052</GDP>
+<GDPPPP>3546</GDPPPP>
+<Language>English</Language>
+<ProvGroup>S</ProvGroup>
+</Nation>
+<Nation>
+<Code>FIN</Code>
+<Nation>FINLAND</Nation>
+<Subcont>2E</Subcont>
+<Area>337000</Area>
+<Population>5299000</Population>
+<Year>2008</Year>
+<Capital>Helsinki</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Sunna Marin</Leader>
+<Province>Province</Province>
+<UN>1955</UN>
+<Currency>Markka</Currency>
+<GDP>238731</GDP>
+<GDPPPP>266553</GDPPPP>
+<Language>Finnish</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>5275000</Estimate>
+<Land_x0020_Area>305000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>FLK</Code>
+<Nation>FALKLAND ISLANDS</Nation>
+<Subcont>7S</Subcont>
+<Area>12000</Area>
+<Population>2800</Population>
+<Year>2012</Year>
+<Capital>Stanley</Capital>
+<Government>British Colony</Government>
+<Leader>see Britain</Leader>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>FPO</Code>
+<Nation>FRENCH POLYNESIA</Nation>
+<Subcont>6C</Subcont>
+<Area>3647</Area>
+<Population>274217</Population>
+<Year>2007</Year>
+<Capital>Papeete</Capital>
+<Government>French Territory</Government>
+<Leader>see France</Leader>
+<GDP>6679</GDP>
+<Language>French</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>FRA</Code>
+<Nation>FRANCE</Nation>
+<Subcont>2W</Subcont>
+<Area>547000</Area>
+<Population>62393000</Population>
+<Year>2009</Year>
+<Capital>Paris</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Nicolas Sarkozy</Leader>
+<Province>Department</Province>
+<UN>1945</UN>
+<Currency>Franc</Currency>
+<GDP>2559850</GDP>
+<GDPPPP>2776324</GDPPPP>
+<Language>French</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>61351000</Estimate>
+</Nation>
+<Nation>
+<Code>FRO</Code>
+<Nation>FAROE ISLANDS</Nation>
+<Subcont>2W</Subcont>
+<Area>1400</Area>
+<Population>49000</Population>
+<Year>2008</Year>
+<Capital>Thorshavn</Capital>
+<Government>Danish Realm</Government>
+<Leader>see Denmark</Leader>
+<Province>sysla</Province>
+<Language>Danish</Language>
+<Alternate>Færøerne</Alternate>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>FSM</Code>
+<Nation>MICRONESIA</Nation>
+<Subcont>6D</Subcont>
+<Area>700</Area>
+<Population>102000</Population>
+<Year>2010</Year>
+<Capital>Palikir</Capital>
+<Government>Federal Republic</Government>
+<Head>SemiPres</Head>
+<Leader>see USA</Leader>
+<UN>1991</UN>
+<Currency>Dollar</Currency>
+<GDP>297</GDP>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>GAB</Code>
+<Nation>GABON</Nation>
+<Subcont>3S</Subcont>
+<Area>268000</Area>
+<Population>1811000</Population>
+<Year>2013</Year>
+<Capital>Libreville</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Omar Bongo</Leader>
+<InPower>1967</InPower>
+<UN>1960</UN>
+<GDP>18771</GDP>
+<GDPPPP>16176</GDPPPP>
+<Language>French</Language>
+<Estimate>1462000</Estimate>
+<Land_x0020_Area>258000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>GAM</Code>
+<Nation>GAMBIA</Nation>
+<Subcont>3S</Subcont>
+<Area>11000</Area>
+<Population>1857000</Population>
+<Year>2013</Year>
+<Capital>Banjul</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Adama Barrow</Leader>
+<InPower>2014</InPower>
+<UN>1965</UN>
+<GDP>1001</GDP>
+<GDPPPP>977</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>10000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>GBG</Code>
+<Nation>Guernsey</Nation>
+<Subcont>2W</Subcont>
+<Area>78</Area>
+<Population>62700</Population>
+<Year>2001</Year>
+<Capital>St. Peter Port</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>GBJ</Code>
+<Nation>Jersey</Nation>
+<Subcont>2W</Subcont>
+<Area>118</Area>
+<Population>98000</Population>
+<Year>2001</Year>
+<Capital>St. Helier</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>GBM</Code>
+<Nation>Isle of Man</Nation>
+<Subcont>2W</Subcont>
+<Area>572</Area>
+<Population>80000</Population>
+<Year>2006</Year>
+<Capital>Douglas</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<InPower>0</InPower>
+<Province>sheading</Province>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>English, Manx</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>GBR</Code>
+<Nation>GREAT BRITAIN</Nation>
+<Subcont>2W</Subcont>
+<Area>244800</Area>
+<Population>63192000</Population>
+<Year>2011</Year>
+<Capital>London</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/Queen</Head>
+<Leader>Gordon Brown</Leader>
+<InPower>2007</InPower>
+<Province>County</Province>
+<UN>1945</UN>
+<Currency>Pound</Currency>
+<Exchange>0.47</Exchange>
+<GDP>2253552</GDP>
+<GDPPPP>2417570</GDPPPP>
+<Language>English</Language>
+<Alternate>Britain</Alternate>
+<ProvGroup>S</ProvGroup>
+<Land_x0020_Area>242600</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>GBS</Code>
+<Nation>GUINEA BISSAU</Nation>
+<Subcont>3S</Subcont>
+<Area>36000</Area>
+<Population>1548000</Population>
+<Year>2008</Year>
+<Capital>Bissau</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Joao Bernardo Vieira</Leader>
+<InPower>1980</InPower>
+<UN>1974</UN>
+<GDP>817</GDP>
+<GDPPPP>969</GDPPPP>
+<Language>Portuguese</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>1492000</Estimate>
+<Land_x0020_Area>28000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>GEO</Code>
+<Nation>GEORGIA</Nation>
+<Subcont>2E</Subcont>
+<Area>70000</Area>
+<Population>4677000</Population>
+<Year>2005</Year>
+<Capital>Tbilisi</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Edvard Chevardnadze</Leader>
+<InPower>1992</InPower>
+<Province>Oblast</Province>
+<UN>1992</UN>
+<Currency>Rouble</Currency>
+<GDP>11665</GDP>
+<GDPPPP>14347</GDPPPP>
+<Language>Georgian</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>GEQ</Code>
+<Nation>EQUATORIAL GUINEA</Nation>
+<Subcont>3S</Subcont>
+<Area>28000</Area>
+<Population>1222000</Population>
+<Year>2015</Year>
+<Capital>Malabo</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<UN>1968</UN>
+<GDP>11803</GDP>
+<GDPPPP>19805</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>1120000</Estimate>
+</Nation>
+<Nation>
+<Code>GER</Code>
+<Nation>GERMANY</Nation>
+<Subcont>2W</Subcont>
+<Area>357000</Area>
+<Population>80220000</Population>
+<Year>2011</Year>
+<Capital>Berlin</Capital>
+<Government>Federal Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Angela Merkel</Leader>
+<Province>Lander</Province>
+<UN>1973</UN>
+<Currency>Mark</Currency>
+<GDP>3280334</GDP>
+<GDPPPP>3577031</GDPPPP>
+<Language>German</Language>
+<ProvGroup>S</ProvGroup>
+<Land_x0020_Area>349000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>GHA</Code>
+<Nation>GHANA</Nation>
+<Subcont>3S</Subcont>
+<Area>239000</Area>
+<Population>24659000</Population>
+<Year>2010</Year>
+<Capital>Accra</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Jerry Rawlings</Leader>
+<InPower>1981</InPower>
+<Province>Regions</Province>
+<UN>1957</UN>
+<GDP>32520</GDP>
+<GDPPPP>37158</GDPPPP>
+<Language>English</Language>
+<Alternate>Gold Coast</Alternate>
+<ProvGroup>S</ProvGroup>
+<Estimate>21802000</Estimate>
+<Land_x0020_Area>231000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>GIB</Code>
+<Nation>GIBRALTAR</Nation>
+<Subcont>2W</Subcont>
+<Area>6</Area>
+<Population>32500</Population>
+<Year>2012</Year>
+<Capital>Gibraltar</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<Currency>Pound</Currency>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>GRE</Code>
+<Nation>GREECE </Nation>
+<Subcont>2E</Subcont>
+<Area>132000</Area>
+<Population>10964000</Population>
+<Year>2005</Year>
+<Capital>Athens</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>George Papandreou</Leader>
+<Province>Nomoi</Province>
+<UN>1945</UN>
+<Currency>Drachma</Currency>
+<GDP>301065</GDP>
+<GDPPPP>303065</GDPPPP>
+<Language>Greek</Language>
+<Alternate>Ellas</Alternate>
+<ProvGroup>S</ProvGroup>
+<Estimate>11338000</Estimate>
+</Nation>
+<Nation>
+<Code>GRL</Code>
+<Nation>GREENLAND</Nation>
+<Subcont>7N</Subcont>
+<Area>2166000</Area>
+<Population>56000</Population>
+<Year>2005</Year>
+<Capital>Nuuk</Capital>
+<Government>Danish Realm</Government>
+<Leader>see Denmark</Leader>
+<Province>Province</Province>
+<GDP>2022</GDP>
+<Language>Danish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>57000</Estimate>
+</Nation>
+<Nation>
+<Code>GRN</Code>
+<Nation>GRENADA</Nation>
+<Subcont>4W</Subcont>
+<Area>340</Area>
+<Population>101000</Population>
+<Year>2005</Year>
+<Capital>St. George&apos;s</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<UN>1974</UN>
+<GDP>776</GDP>
+<GDPPPP>822</GDPPPP>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>GUA</Code>
+<Nation>GUATEMALA</Nation>
+<Subcont>4C</Subcont>
+<Area>109000</Area>
+<Population>14655000</Population>
+<Year>2005</Year>
+<Capital>Guatemala City</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Alfonso Portillo</Leader>
+<InPower>1999</InPower>
+<UN>1945</UN>
+<GDP>41473</GDP>
+<GDPPPP>46897</GDPPPP>
+<Language>Spanish</Language>
+</Nation>
+<Nation>
+<Code>GUD</Code>
+<Nation>GUADELOUPE</Nation>
+<Subcont>4W</Subcont>
+<Area>1800</Area>
+<Population>410000</Population>
+<Year>2010</Year>
+<Capital>Basse-Terre</Capital>
+<Government>French Department</Government>
+<Leader>see France</Leader>
+<Province>Arondissemt</Province>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>458000</Estimate>
+</Nation>
+<Nation>
+<Code>GUI</Code>
+<Nation>GUINEA</Nation>
+<Subcont>3S</Subcont>
+<Area>246000</Area>
+<Population>10523000</Population>
+<Year>2014</Year>
+<Capital>Conakry</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Lansana Conte</Leader>
+<InPower>1984</InPower>
+<UN>1958</UN>
+<GDP>4267</GDP>
+<GDPPPP>5212</GDPPPP>
+<Language>French</Language>
+</Nation>
+<Nation>
+<Code>GUM</Code>
+<Nation>GUAM</Nation>
+<Subcont>6D</Subcont>
+<Area>545</Area>
+<Population>159000</Population>
+<Year>2010</Year>
+<Capital>Hagåtña</Capital>
+<Government>US Territory</Government>
+<Leader>see USA</Leader>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>GUY</Code>
+<Nation>GUYANA</Nation>
+<Subcont>5</Subcont>
+<Area>215000</Area>
+<Population>765000</Population>
+<Year>2005</Year>
+<Capital>Georgetown</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Province>region</Province>
+<UN>1966</UN>
+<GDP>2260</GDP>
+<GDPPPP>2480</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>886000</Estimate>
+<Land_x0020_Area>197000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>HAI</Code>
+<Nation>HAITI</Nation>
+<Subcont>4W</Subcont>
+<Area>28000</Area>
+<Population>8122000</Population>
+<Year>2005</Year>
+<Capital>Port-au-Prince</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Rene Preval</Leader>
+<InPower>2006</InPower>
+<Province>departements</Province>
+<UN>1945</UN>
+<GDP>6123</GDP>
+<GDPPPP>7388</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>8429000</Estimate>
+</Nation>
+<Nation>
+<Code>HEL</Code>
+<Nation>ST. HELENA</Nation>
+<Subcont>7S</Subcont>
+<Area>420</Area>
+<Population>5700</Population>
+<Year>2008</Year>
+<Capital>Jamestown</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>HKG</Code>
+<Nation>HONG KONG</Nation>
+<Subcont>1E</Subcont>
+<Area>1000</Area>
+<Population>7070000</Population>
+<Year>2011</Year>
+<Capital>Victoria</Capital>
+<Government>Chinese region</Government>
+<Leader>see China</Leader>
+<GDP>224459</GDP>
+<GDPPPP>243302</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>HON</Code>
+<Nation>HONDURAS</Nation>
+<Subcont>4C</Subcont>
+<Area>112000</Area>
+<Population>6975000</Population>
+<Year>2005</Year>
+<Capital>Tegucigalpa</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Carlos Reina</Leader>
+<InPower>1994</InPower>
+<UN>1945</UN>
+<GDP>15400</GDP>
+<GDPPPP>17381</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>HUN</Code>
+<Nation>HUNGARY</Nation>
+<Subcont>2E</Subcont>
+<Area>93000</Area>
+<Population>9877000</Population>
+<Year>2014</Year>
+<Capital>Budapest</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Laszlo Solyom</Leader>
+<UN>1955</UN>
+<GDP>128629</GDP>
+<GDPPPP>140303</GDPPPP>
+<Language>Magyar</Language>
+<Alternate>Magyarorszag</Alternate>
+<ProvGroup>S</ProvGroup>
+<Estimate>10037000</Estimate>
+</Nation>
+<Nation>
+<Code>INA</Code>
+<Nation>INDONESIA</Nation>
+<Subcont>1S</Subcont>
+<Area>1919000</Area>
+<Population>237641000</Population>
+<Year>2011</Year>
+<Capital>Jakarta</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Wahid</Leader>
+<InPower>1999</InPower>
+<Province>Provinsi</Province>
+<UN>1950</UN>
+<Currency>Rupiah</Currency>
+<GDP>707448</GDP>
+<GDPPPP>845680</GDPPPP>
+<Language>Bahasa</Language>
+<ProvGroup>S</ProvGroup>
+<Land_x0020_Area>1826000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>IND</Code>
+<Nation>INDIA</Nation>
+<Subcont>1C</Subcont>
+<Area>3184000</Area>
+<Population>1210193000</Population>
+<Year>2011</Year>
+<Capital>Delhi</Capital>
+<Government>Federal Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Vajpayee</Leader>
+<InPower>1998</InPower>
+<Province>State</Province>
+<UN>1945</UN>
+<Currency>Rupee</Currency>
+<GDP>1722328</GDP>
+<GDPPPP>1676143</GDPPPP>
+<Language>Hindi, English</Language>
+<Alternate>Bharat</Alternate>
+<ProvGroup>S</ProvGroup>
+<Estimate>1129668000</Estimate>
+<Land_x0020_Area>2973000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>IRI</Code>
+<Nation>IRAN</Nation>
+<Subcont>1W</Subcont>
+<Area>1648000</Area>
+<Population>74010000</Population>
+<Year>2011</Year>
+<Capital>Tehran</Capital>
+<Government>Islamic Republic</Government>
+<Head>Theocracy</Head>
+<Leader>Sayed M. Khatami</Leader>
+<InPower>1997</InPower>
+<Province>Province</Province>
+<UN>1945</UN>
+<GDP>386670</GDP>
+<GDPPPP>482445</GDPPPP>
+<Language>Farsi</Language>
+<Alternate>Persia</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>76430000</Estimate>
+<Land_x0020_Area>1636000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>IRL</Code>
+<Nation>IRELAND</Nation>
+<Subcont>2W</Subcont>
+<Area>70280</Area>
+<Population>4758000</Population>
+<Year>2016</Year>
+<Capital>Dublin</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Mary McAleese</Leader>
+<Province>County</Province>
+<UN>1955</UN>
+<Currency>Euro</Currency>
+<GDP>206600</GDP>
+<GDPPPP>217669</GDPPPP>
+<Language>English, Gaelic</Language>
+<Alternate>Eire</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>4104000</Estimate>
+<Land_x0020_Area>68890</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>IRQ</Code>
+<Nation>IRAQ</Nation>
+<Subcont>1W</Subcont>
+<Area>437000</Area>
+<Population>26075000</Population>
+<Year>2005</Year>
+<Capital>Baghdad</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<InPower>1979</InPower>
+<Province>Governorate</Province>
+<UN>1945</UN>
+<GDP>28141</GDP>
+<GDPPPP>115388</GDPPPP>
+<Language>English</Language>
+<Alternate>Mesopotamia</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>27163000</Estimate>
+<Land_x0020_Area>432000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>ISL</Code>
+<Nation>ICELAND</Nation>
+<Subcont>2W</Subcont>
+<Area>103000</Area>
+<Population>301000</Population>
+<Year>2005</Year>
+<Capital>Reykjavik</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Province>landsvaeoi</Province>
+<UN>1946</UN>
+<Currency>Krone</Currency>
+<GDP>12574</GDP>
+<GDPPPP>14048</GDPPPP>
+<Language>Icelandic</Language>
+<Alternate>Island</Alternate>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>ISR</Code>
+<Nation>ISRAEL</Nation>
+<Subcont>1W</Subcont>
+<Area>21000</Area>
+<Population>7412000</Population>
+<Year>2008</Year>
+<Capital>Jerusalem</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Daniel Netanyahu</Leader>
+<InPower>1996</InPower>
+<UN>1949</UN>
+<Currency>Pound</Currency>
+<GDP>217445</GDP>
+<GDPPPP>242897</GDPPPP>
+<Language>Hebrew, Arabic</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>7237000</Estimate>
+<Land_x0020_Area>20330</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>ISV</Code>
+<Nation>U.S. VIRGIN ISLANDS</Nation>
+<Subcont>4W</Subcont>
+<Area>350</Area>
+<Population>109000</Population>
+<Year>2005</Year>
+<Capital>Charlotte Amalie</Capital>
+<Government>US Territory</Government>
+<Leader>see USA</Leader>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>113000</Estimate>
+</Nation>
+<Nation>
+<Code>ITA</Code>
+<Nation>ITALY</Nation>
+<Subcont>2W</Subcont>
+<Area>301000</Area>
+<Population>58752000</Population>
+<Year>2006</Year>
+<Capital>Roma</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Silvio Berlusconi</Leader>
+<Province>Province</Province>
+<UN>1955</UN>
+<Currency>Lira</Currency>
+<GDP>2051290</GDP>
+<GDPPPP>2198730</GDPPPP>
+<Language>Italian</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>59547000</Estimate>
+<Land_x0020_Area>294000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>IVB</Code>
+<Nation>BRITISH VIRGIN ISLANDS</Nation>
+<Subcont>4W</Subcont>
+<Area>150</Area>
+<Population>28000</Population>
+<Year>2010</Year>
+<Capital>Road Town</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<GDP>909</GDP>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>JAM</Code>
+<Nation>JAMAICA</Nation>
+<Subcont>4W</Subcont>
+<Area>11000</Area>
+<Population>2698000</Population>
+<Year>2011</Year>
+<Capital>Kingston</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<Leader>Percival Patterson</Leader>
+<InPower>1992</InPower>
+<UN>1962</UN>
+<GDP>13428</GDP>
+<GDPPPP>14807</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>JOR</Code>
+<Nation>JORDAN</Nation>
+<Subcont>1W</Subcont>
+<Area>92000</Area>
+<Population>5760000</Population>
+<Year>2005</Year>
+<Capital>Amman</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>King/PM</Head>
+<Leader>Sharif Zaid bin Shaker</Leader>
+<InPower>1995</InPower>
+<UN>1955</UN>
+<Currency>Dinar</Currency>
+<Exchange>0.9</Exchange>
+<GDP>27504</GDP>
+<GDPPPP>29233</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>5375000</Estimate>
+</Nation>
+<Nation>
+<Code>JPN</Code>
+<Nation>JAPAN</Nation>
+<Subcont>1E</Subcont>
+<Area>378000</Area>
+<Population>128057000</Population>
+<Year>2010</Year>
+<Capital>Tokyo</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/Emperor</Head>
+<Leader>Yoshimoto Mori</Leader>
+<InPower>2000</InPower>
+<Province>Prefectures</Province>
+<UN>1956</UN>
+<Currency>Yen</Currency>
+<GDP>5458873</GDP>
+<GDPPPP>5869471</GDPPPP>
+<Language>Japanese</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>128646000</Estimate>
+<Land_x0020_Area>375000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>KAZ</Code>
+<Nation>KAZAKHSTAN</Nation>
+<Subcont>1N</Subcont>
+<Area>2715000</Area>
+<Population>15639000</Population>
+<Year>2008</Year>
+<Capital>Astana</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Nursultan Nazarbayev</Leader>
+<InPower>1990</InPower>
+<Province>Oblast</Province>
+<UN>1992</UN>
+<GDP>146908</GDP>
+<GDPPPP>178312</GDPPPP>
+<Language>Kazakh, Russian</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>2670000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>KEN</Code>
+<Nation>KENYA</Nation>
+<Subcont>3S</Subcont>
+<Area>583000</Area>
+<Population>38610000</Population>
+<Year>2009</Year>
+<Capital>Nairobi</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Daniel arap Moi</Leader>
+<InPower>1978</InPower>
+<UN>1963</UN>
+<GDP>32483</GDP>
+<GDPPPP>34796</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>35062000</Estimate>
+<Land_x0020_Area>569000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>KGZ</Code>
+<Nation>KYRGYZSTAN</Nation>
+<Subcont>1N</Subcont>
+<Area>198000</Area>
+<Population>5348000</Population>
+<Year>2009</Year>
+<Capital>Bishkek</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Askar Akayev</Leader>
+<InPower>1990</InPower>
+<Province>Provinces</Province>
+<UN>1992</UN>
+<Currency>Rouble</Currency>
+<GDP>4616</GDP>
+<GDPPPP>5920</GDPPPP>
+<Language>Kyrgyz</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>5437000</Estimate>
+<Land_x0020_Area>191000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>KIR</Code>
+<Nation>KIRIBATI</Nation>
+<Subcont>6D</Subcont>
+<Area>680</Area>
+<Population>110000</Population>
+<Year>2015</Year>
+<Capital>Bairiki</Capital>
+<Government>Republic</Government>
+<Head>SemiPres</Head>
+<Currency>$ Australian</Currency>
+<GDP>146</GDP>
+<GDPPPP>167</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>KOR</Code>
+<Nation>SOUTH KOREA</Nation>
+<Subcont>1E</Subcont>
+<Area>98000</Area>
+<Population>48423000</Population>
+<Year>2010</Year>
+<Capital>Seoul</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Kim Dae Jung</Leader>
+<InPower>1998</InPower>
+<Province>Province</Province>
+<UN>1991</UN>
+<Currency>Won</Currency>
+<Exchange>1350</Exchange>
+<GDP>1014369</GDP>
+<GDPPPP>1116247</GDPPPP>
+<Language>Korean</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>51301000</Estimate>
+</Nation>
+<Nation>
+<Code>KOS</Code>
+<Nation>KOSOVO</Nation>
+<Subcont>2E</Subcont>
+<Area>10887</Area>
+<Population>1780000</Population>
+<Year>2011</Year>
+<Capital>Pristina</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>5590</GDP>
+<GDPPPP>6452</GDPPPP>
+<ProvGroup>P</ProvGroup>
+<Estimate>0</Estimate>
+<Land_x0020_Area>0</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>KSA</Code>
+<Nation>SAUDI ARABIA</Nation>
+<Subcont>1W</Subcont>
+<Area>2150000</Area>
+<Population>29940000</Population>
+<Year>2013</Year>
+<Capital>Riyadh</Capital>
+<Government>Absolute monarchy</Government>
+<Head>King</Head>
+<Leader>King Fahd</Leader>
+<InPower>1982</InPower>
+<Province>Provinces</Province>
+<UN>1945</UN>
+<GDP>434666</GDP>
+<GDPPPP>577595</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>1960000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>KUW</Code>
+<Nation>KUWAIT</Nation>
+<Subcont>1W</Subcont>
+<Area>18000</Area>
+<Population>2336000</Population>
+<Year>2005</Year>
+<Capital>Al-Kuwayt</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>Emir/PM</Head>
+<Leader>Sheikh Jaber as-Sabah</Leader>
+<InPower>1978</InPower>
+<UN>1963</UN>
+<GDP>124331</GDP>
+<GDPPPP>176667</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>2731000</Estimate>
+</Nation>
+<Nation>
+<Code>LAO</Code>
+<Nation>LAOS</Nation>
+<Subcont>1S</Subcont>
+<Area>237000</Area>
+<Population>6407000</Population>
+<Year>2015</Year>
+<Capital>Viangchan</Capital>
+<Government>Republic</Government>
+<Head>1Party</Head>
+<Leader>Khantai Siphandon</Leader>
+<InPower>1991</InPower>
+<UN>1955</UN>
+<GDP>6496</GDP>
+<GDPPPP>7891</GDPPPP>
+<Language>Lao</Language>
+<ProvGroup>P</ProvGroup>
+<Land_x0020_Area>231000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>LAT</Code>
+<Nation>LATVIA</Nation>
+<Subcont>2E</Subcont>
+<Area>64600</Area>
+<Population>2070000</Population>
+<Year>2011</Year>
+<Capital>Riga</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Valdis Zatlers</Leader>
+<UN>1991</UN>
+<GDP>24014</GDP>
+<GDPPPP>28252</GDPPPP>
+<Language>Latvian, Lettish</Language>
+</Nation>
+<Nation>
+<Code>LBA</Code>
+<Nation>LIBYA</Nation>
+<Subcont>3N</Subcont>
+<Area>1760000</Area>
+<Population>6098000</Population>
+<Year>2005</Year>
+<Capital>Tripoli</Capital>
+<Government>Islamic Socialist</Government>
+<Head>Pres/PM</Head>
+<Leader>Muamar Qaddafi</Leader>
+<InPower>1979</InPower>
+<Province>municipality</Province>
+<UN>1955</UN>
+<Currency>Dinar</Currency>
+<GDP>71945</GDP>
+<GDPPPP>36874</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>6294000</Estimate>
+</Nation>
+<Nation>
+<Code>LBR</Code>
+<Nation>LIBERIA</Nation>
+<Subcont>3S</Subcont>
+<Area>111000</Area>
+<Population>3489000</Population>
+<Year>2008</Year>
+<Capital>Monrovia</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Charles Taylor</Leader>
+<InPower>1990</InPower>
+<UN>1945</UN>
+<GDP>873</GDP>
+<GDPPPP>1154</GDPPPP>
+<Language>English</Language>
+<Land_x0020_Area>96000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>LCA</Code>
+<Nation>ST. LUCIA</Nation>
+<Subcont>4W</Subcont>
+<Area>620</Area>
+<Population>166000</Population>
+<Year>2005</Year>
+<Capital>Castries</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<UN>1979</UN>
+<GDP>1164</GDP>
+<GDPPPP>1239</GDPPPP>
+<Language>English</Language>
+<Estimate>170000</Estimate>
+</Nation>
+<Nation>
+<Code>LES</Code>
+<Nation>LESOTHO</Nation>
+<Subcont>3S</Subcont>
+<Area>30000</Area>
+<Population>1872000</Population>
+<Year>2006</Year>
+<Capital>Maseru</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>Ntsu Mokhehle</Leader>
+<InPower>1994</InPower>
+<UN>1966</UN>
+<GDP>2129</GDP>
+<GDPPPP>2453</GDPPPP>
+<Language>English</Language>
+<Estimate>2513000</Estimate>
+</Nation>
+<Nation>
+<Code>LIB</Code>
+<Nation>LEBANON</Nation>
+<Subcont>1W</Subcont>
+<Area>10200</Area>
+<Population>3826000</Population>
+<Year>2005</Year>
+<Capital>Bayrut</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Rafiq al-Hariri</Leader>
+<InPower>1992</InPower>
+<Province>muhafazat</Province>
+<UN>1945</UN>
+<Currency>Pound</Currency>
+<GDP>39248</GDP>
+<GDPPPP>39039</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>4557000</Estimate>
+</Nation>
+<Nation>
+<Code>LIE</Code>
+<Nation>LIECHTENSTEIN</Nation>
+<Subcont>2W</Subcont>
+<Area>160</Area>
+<Population>36000</Population>
+<Year>2010</Year>
+<Capital>Vaduz</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>Prince/PM</Head>
+<UN>1990</UN>
+<GDP>5145</GDP>
+<Language>German</Language>
+<Estimate>36000</Estimate>
+</Nation>
+<Nation>
+<Code>LTU</Code>
+<Nation>LITHUANIA</Nation>
+<Subcont>2E</Subcont>
+<Area>65000</Area>
+<Population>3043000</Population>
+<Year>2011</Year>
+<Capital>Vilnius</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Dalia Grybauskaita</Leader>
+<Province>apskriti</Province>
+<UN>1991</UN>
+<GDP>36478</GDP>
+<GDPPPP>42718</GDPPPP>
+<Language>Lithuanian</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>LUX</Code>
+<Nation>LUXEMBOURG</Nation>
+<Subcont>2W</Subcont>
+<Area>2600</Area>
+<Population>512000</Population>
+<Year>2011</Year>
+<Capital>Luxembourg</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/Duke</Head>
+<Leader>Jean-Claude Juncker</Leader>
+<InPower>1995</InPower>
+<Province>district</Province>
+<UN>1945</UN>
+<Currency>Franc</Currency>
+<GDP>53330</GDP>
+<GDPPPP>58412</GDPPPP>
+<Language>French</Language>
+</Nation>
+<Nation>
+<Code>MAC</Code>
+<Nation>Macau</Nation>
+<Subcont>1E</Subcont>
+<Area>25</Area>
+<Population>552000</Population>
+<Year>2011</Year>
+<Capital>Macau</Capital>
+<Government>Chinese region</Government>
+<Leader>see China</Leader>
+<GDP>27177</GDP>
+<Language>Portuguese</Language>
+<Alternate>Aomen</Alternate>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>MAD</Code>
+<Nation>MADAGASCAR</Nation>
+<Subcont>3S</Subcont>
+<Area>587000</Area>
+<Population>18040000</Population>
+<Year>2005</Year>
+<Capital>Tanarive</Capital>
+<Government>Federal Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Didier Ratsiraka</Leader>
+<InPower>1996</InPower>
+<UN>1960</UN>
+<GDP>8739</GDP>
+<GDPPPP>10025</GDPPPP>
+<Language>French</Language>
+<Alternate>Malagasy</Alternate>
+<ProvGroup>P</ProvGroup>
+<Estimate>18996000</Estimate>
+<Land_x0020_Area>581000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>MAR</Code>
+<Nation>MOROCCO</Nation>
+<Subcont>3N</Subcont>
+<Area>500000</Area>
+<Population>30358000</Population>
+<Year>2007</Year>
+<Capital>Rabat</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>King/PM</Head>
+<Leader>Youssoufi</Leader>
+<InPower>1998</InPower>
+<Province>Prefecture</Province>
+<UN>1956</UN>
+<GDP>91542</GDP>
+<GDPPPP>99241</GDPPPP>
+<Language>Arabic</Language>
+<Alternate>Maroc</Alternate>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>MAS</Code>
+<Nation>MALAYSIA</Nation>
+<Subcont>1S</Subcont>
+<Area>331000</Area>
+<Population>26007000</Population>
+<Year>2010</Year>
+<Capital>Putrajaya</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>Abdullah Ahmad Badawi</Leader>
+<InPower>2003</InPower>
+<Province>State</Province>
+<UN>1957</UN>
+<Currency>Ringgit</Currency>
+<GDP>237797</GDP>
+<GDPPPP>278680</GDPPPP>
+<Language>Bahasa</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>28294000</Estimate>
+<Land_x0020_Area>328500</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>MAW</Code>
+<Nation>MALAWI</Nation>
+<Subcont>3S</Subcont>
+<Area>118000</Area>
+<Population>13066000</Population>
+<Year>2008</Year>
+<Capital>Lilongwe</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Bakili Muluzi</Leader>
+<InPower>1994</InPower>
+<UN>1964</UN>
+<GDP>5325</GDP>
+<GDPPPP>5673</GDPPPP>
+<Language>English, Chichewa</Language>
+<Alternate>Nyasaland</Alternate>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>94000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>MAY</Code>
+<Nation>MAYOTTE</Nation>
+<Subcont>3S</Subcont>
+<Area>370</Area>
+<Population>213000</Population>
+<Year>2012</Year>
+<Capital>Mamoundzhou</Capital>
+<Government>French Collectivity</Government>
+<Leader>see France</Leader>
+<Language>French</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>MDA</Code>
+<Nation>MOLDOVA</Nation>
+<Subcont>2E</Subcont>
+<Area>34000</Area>
+<Population>3943000</Population>
+<Year>2004</Year>
+<Capital>Chisinau</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Mircea Suegur</Leader>
+<InPower>1991</InPower>
+<Province>Counties</Province>
+<UN>1992</UN>
+<GDP>5809</GDP>
+<GDPPPP>7003</GDPPPP>
+<Language>Romanian</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>MDV</Code>
+<Nation>MALDIVES</Nation>
+<Subcont>1C</Subcont>
+<Area>300</Area>
+<Population>299000</Population>
+<Year>2006</Year>
+<Capital>Male</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<UN>1965</UN>
+<GDP>1480</GDP>
+<GDPPPP>1944</GDPPPP>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>MEX</Code>
+<Nation>MEXICO</Nation>
+<Subcont>4C</Subcont>
+<Area>1973000</Area>
+<Population>112337000</Population>
+<Year>2010</Year>
+<Capital>Mexico City</Capital>
+<Government>Federal Republic</Government>
+<Head>Pres</Head>
+<Leader>Ernesto Ponce de Leon</Leader>
+<InPower>1994</InPower>
+<Province>State</Province>
+<UN>1945</UN>
+<GDP>1032224</GDP>
+<GDPPPP>1154784</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>106457000</Estimate>
+<Land_x0020_Area>1923000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>MGL</Code>
+<Nation>MONGOLIA</Nation>
+<Subcont>1E</Subcont>
+<Area>1565000</Area>
+<Population>2648000</Population>
+<Year>2010</Year>
+<Capital>Ulaan Bataar</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Gambojavyn Ochirbat</Leader>
+<InPower>1990</InPower>
+<UN>1961</UN>
+<GDP>6192</GDP>
+<GDPPPP>8506</GDPPPP>
+<Language>Mongolian</Language>
+<Alternate>Outer Mongolia</Alternate>
+<ProvGroup>P</ProvGroup>
+<Land_x0020_Area>1555000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>MGO</Code>
+<Nation>MONTENEGRO</Nation>
+<Subcont>2E</Subcont>
+<Area>14000</Area>
+<Population>620000</Population>
+<Year>2011</Year>
+<Capital>Podgorica</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<InPower>0</InPower>
+<Province>commune</Province>
+<UN>2006</UN>
+<Exchange>0</Exchange>
+<GDP>4111</GDP>
+<GDPPPP>4536</GDPPPP>
+<Language>Montenegrin</Language>
+<Alternate>Crna Gora</Alternate>
+</Nation>
+<Nation>
+<Code>MKD</Code>
+<Nation>MACEDONIA</Nation>
+<Subcont>2E</Subcont>
+<Area>25000</Area>
+<Population>2045000</Population>
+<Year>2005</Year>
+<Capital>Skopje</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Branko Crvenkovski</Leader>
+<InPower>1995</InPower>
+<UN>1993</UN>
+<GDP>9138</GDP>
+<GDPPPP>10327</GDPPPP>
+<Language>Macedonian</Language>
+<Estimate>2057000</Estimate>
+</Nation>
+<Nation>
+<Code>MLI</Code>
+<Nation>MALI</Nation>
+<Subcont>3N</Subcont>
+<Area>1240000</Area>
+<Population>14517000</Population>
+<Year>2009</Year>
+<Capital>Bamako</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Alpha Konare</Leader>
+<InPower>1992</InPower>
+<UN>1960</UN>
+<GDP>9204</GDP>
+<GDPPPP>10600</GDPPPP>
+<Language>French</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>1220000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>MLT</Code>
+<Nation>MALTA</Nation>
+<Subcont>2W</Subcont>
+<Area>320</Area>
+<Population>405000</Population>
+<Year>2005</Year>
+<Capital>Valletta</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>George Abela</Leader>
+<InPower>1998</InPower>
+<UN>1964</UN>
+<GDP>8163</GDP>
+<GDPPPP>8896</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>398000</Estimate>
+</Nation>
+<Nation>
+<Code>MNT</Code>
+<Nation>MONTSERRAT</Nation>
+<Subcont>4W</Subcont>
+<Area>100</Area>
+<Population>5000</Population>
+<Year>2011</Year>
+<Capital>Brades Estate</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<GDP>55</GDP>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>MON</Code>
+<Nation>MONACO</Nation>
+<Subcont>2W</Subcont>
+<Area>1</Area>
+<Population>35000</Population>
+<Year>2009</Year>
+<Capital>Monaco</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>Prince/PM</Head>
+<Province>quartier</Province>
+<UN>1991</UN>
+<GDP>5424</GDP>
+<Language>French</Language>
+</Nation>
+<Nation>
+<Code>MOZ</Code>
+<Nation>MOZAMBIQUE</Nation>
+<Subcont>3S</Subcont>
+<Area>800000</Area>
+<Population>21225000</Population>
+<Year>2007</Year>
+<Capital>Maputo</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Joaquim Chissano</Leader>
+<InPower>1986</InPower>
+<UN>1975</UN>
+<GDP>9533</GDP>
+<GDPPPP>12827</GDPPPP>
+<Language>Portuguese</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>20356000</Estimate>
+<Land_x0020_Area>784000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>MRI</Code>
+<Nation>MAURITIUS</Nation>
+<Subcont>8</Subcont>
+<Area>2000</Area>
+<Population>1231000</Population>
+<Year>2005</Year>
+<Capital>Port Louis</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Aneerood Jugnauth</Leader>
+<InPower>1982</InPower>
+<UN>1968</UN>
+<Currency>Rupee</Currency>
+<GDP>9729</GDP>
+<GDPPPP>11313</GDPPPP>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+<Estimate>1292000</Estimate>
+</Nation>
+<Nation>
+<Code>MRT</Code>
+<Nation>MARTINIQUE</Nation>
+<Subcont>4W</Subcont>
+<Area>1100</Area>
+<Population>400500</Population>
+<Year>2010</Year>
+<Capital>Fort-de-France</Capital>
+<Government>French Department</Government>
+<Leader>see France</Leader>
+<Province>Arondissemen</Province>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>MSH</Code>
+<Nation>MARSHALL ISLANDS</Nation>
+<Subcont>6D</Subcont>
+<Area>180</Area>
+<Population>53000</Population>
+<Year>2011</Year>
+<Capital>Delap-Uliga-Darrit</Capital>
+<Government>Republic</Government>
+<Head>SemiPres</Head>
+<Leader>see USA</Leader>
+<UN>1991</UN>
+<GDP>166</GDP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>MTN</Code>
+<Nation>MAURITANIA</Nation>
+<Subcont>3N</Subcont>
+<Area>1031000</Area>
+<Population>3537000</Population>
+<Year>2013</Year>
+<Capital>Nouakchott</Capital>
+<Government>Islamic Republic</Government>
+<Head>Theocracy</Head>
+<Leader>Maauoya Taya</Leader>
+<InPower>1992</InPower>
+<UN>1961</UN>
+<GDP>3913</GDP>
+<GDPPPP>4200</GDPPPP>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>MYA</Code>
+<Nation>MYANMAR</Nation>
+<Subcont>1S</Subcont>
+<Area>678000</Area>
+<Population>60976000</Population>
+<Year>2012</Year>
+<Capital>Yangon</Capital>
+<Government>Republic</Government>
+<Head>SemiPres</Head>
+<Leader>Than Shwe</Leader>
+<InPower>1992</InPower>
+<Province>Division</Province>
+<UN>1948</UN>
+<Currency>Kyat</Currency>
+<Exchange>11.3</Exchange>
+<GDP>42027</GDP>
+<GDPPPP>51925</GDPPPP>
+<Language>Burmese</Language>
+<Alternate>Burma</Alternate>
+<ProvGroup>S</ProvGroup>
+<Estimate>54821000</Estimate>
+<Land_x0020_Area>658000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>NAM</Code>
+<Nation>NAMIBIA</Nation>
+<Subcont>3S</Subcont>
+<Area>823000</Area>
+<Population>2031000</Population>
+<Year>2005</Year>
+<Capital>Windhoek</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Sam Nujoma</Leader>
+<InPower>1990</InPower>
+<UN>1990</UN>
+<GDP>11701</GDP>
+<GDPPPP>12461</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>2083000</Estimate>
+</Nation>
+<Nation>
+<Code>NCA</Code>
+<Nation>NICARAGUA</Nation>
+<Subcont>4C</Subcont>
+<Area>130000</Area>
+<Population>5465000</Population>
+<Year>2005</Year>
+<Capital>Managua</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Violetta Chamorro</Leader>
+<InPower>1990</InPower>
+<UN>1945</UN>
+<Currency>Cordoba</Currency>
+<GDP>6551</GDP>
+<GDPPPP>7297</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>5701000</Estimate>
+<Land_x0020_Area>120000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>NCD</Code>
+<Nation>NEW CALEDONIA</Nation>
+<Subcont>6B</Subcont>
+<Area>19000</Area>
+<Population>245500</Population>
+<Year>2009</Year>
+<Capital>Noumea</Capital>
+<Government>French Territory</Government>
+<Leader>see France</Leader>
+<GDP>8861</GDP>
+<Language>French</Language>
+<Estimate>243000</Estimate>
+</Nation>
+<Nation>
+<Code>NED</Code>
+<Nation>NETHERLANDS</Nation>
+<Subcont>2W</Subcont>
+<Area>41500</Area>
+<Population>16979000</Population>
+<Year>2016</Year>
+<Capital>Amsterdam</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>Jan Peter Balkenede</Leader>
+<Province>Province</Province>
+<UN>1945</UN>
+<Currency>Guilder</Currency>
+<GDP>779310</GDP>
+<GDPPPP>840433</GDPPPP>
+<Language>Dutch</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>16448000</Estimate>
+<Land_x0020_Area>34000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>NEP</Code>
+<Nation>NEPAL</Nation>
+<Subcont>1C</Subcont>
+<Area>141000</Area>
+<Population>26494500</Population>
+<Year>2011</Year>
+<Capital>Kathmandu</Capital>
+<Government>Federal Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>K.P.Bhattarai</Leader>
+<InPower>1999</InPower>
+<Province>vikras kshet</Province>
+<UN>1955</UN>
+<Currency>Rupee</Currency>
+<GDP>16020</GDP>
+<GDPPPP>18580</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>137000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>NGR</Code>
+<Nation>NIGERIA</Nation>
+<Subcont>3S</Subcont>
+<Area>924000</Area>
+<Population>140003000</Population>
+<Year>2006</Year>
+<Capital>Abuja</Capital>
+<Government>Federal Republic</Government>
+<Head>Pres</Head>
+<Leader>Obasanjo</Leader>
+<InPower>1999</InPower>
+<Province>State</Province>
+<UN>1960</UN>
+<GDP>196410</GDP>
+<GDPPPP>238920</GDPPPP>
+<Language>English</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>162082000</Estimate>
+<Land_x0020_Area>911000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>NIG</Code>
+<Nation>NIGER</Nation>
+<Subcont>3N</Subcont>
+<Area>1267000</Area>
+<Population>17139000</Population>
+<Year>2012</Year>
+<Capital>Niamey</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Tandja Mamadov</Leader>
+<InPower>1999</InPower>
+<UN>1960</UN>
+<GDP>5549</GDP>
+<GDPPPP>6022</GDPPPP>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>12533000</Estimate>
+</Nation>
+<Nation>
+<Code>NIU</Code>
+<Nation>NIUE</Nation>
+<Subcont>6C</Subcont>
+<Area>260</Area>
+<Population>1600</Population>
+<Year>2011</Year>
+<Capital>Alofi</Capital>
+<Government>Commonwealth Realm (NZ)</Government>
+<Head>PM/Queen</Head>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>NMA</Code>
+<Nation>NORTHERN MARIANA ISLANDS</Nation>
+<Subcont>6D</Subcont>
+<Area>475</Area>
+<Population>54000</Population>
+<Year>2010</Year>
+<Capital>Saipan</Capital>
+<Government>US Commonwealth</Government>
+<Leader>see USA</Leader>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+<Estimate>84000</Estimate>
+</Nation>
+<Nation>
+<Code>NOR</Code>
+<Nation>NORWAY</Nation>
+<Subcont>2W</Subcont>
+<Area>324000</Area>
+<Population>5109000</Population>
+<Year>2014</Year>
+<Capital>Oslo</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>Gro Harlem Bruntland</Leader>
+<InPower>1990</InPower>
+<Province>Fylke</Province>
+<UN>1945</UN>
+<Currency>Krone</Currency>
+<GDP>413056</GDP>
+<GDPPPP>483650</GDPPPP>
+<Language>Norwegian</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>4657000</Estimate>
+<Land_x0020_Area>308000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>NRU</Code>
+<Nation>NAURU</Nation>
+<Subcont>6D</Subcont>
+<Area>21</Area>
+<Population>10000</Population>
+<Year>2011</Year>
+<Capital>Yaren</Capital>
+<Government>Republic</Government>
+<Head>SemiPres</Head>
+<UN>1999</UN>
+<Currency>$ Australian</Currency>
+<GDP>63</GDP>
+<Language>English</Language>
+<Alternate>Pleasant Island</Alternate>
+</Nation>
+<Nation>
+<Code>NZL</Code>
+<Nation>NEW ZEALAND</Nation>
+<Subcont>6A</Subcont>
+<Area>269000</Area>
+<Population>4242000</Population>
+<Year>2013</Year>
+<Capital>Wellington</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<InPower>1990</InPower>
+<Province>Province</Province>
+<UN>1945</UN>
+<Currency>$ NZ</Currency>
+<GDP>141406</GDP>
+<GDPPPP>161851</GDPPPP>
+<Language>English</Language>
+<Alternate>Ao Tearoa</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>4275000</Estimate>
+</Nation>
+<Nation>
+<Code>OMA</Code>
+<Nation>OMAN</Nation>
+<Subcont>1W</Subcont>
+<Area>310000</Area>
+<Population>2773000</Population>
+<Year>2010</Year>
+<Capital>Muscat</Capital>
+<Government>Absolute monarchy</Government>
+<Head>Sultan</Head>
+<Leader>Qabus bin Said</Leader>
+<InPower>1970</InPower>
+<Province>Governorate</Province>
+<UN>1971</UN>
+<Currency>Rial Omani</Currency>
+<Exchange>1.5</Exchange>
+<GDP>57850</GDP>
+<GDPPPP>71888</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>PAK</Code>
+<Nation>PAKISTAN</Nation>
+<Subcont>1C</Subcont>
+<Area>804000</Area>
+<Population>162420000</Population>
+<Year>2005</Year>
+<Capital>Islamabad</Capital>
+<Government>Federal Islamic Republic</Government>
+<Head>Theocracy</Head>
+<Leader>Pervez Musharraf</Leader>
+<InPower>1999</InPower>
+<Province>Province</Province>
+<UN>1947</UN>
+<Currency>Rupee</Currency>
+<GDP>174150</GDP>
+<GDPPPP>210566</GDPPPP>
+<Language>Urdu</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>167807000</Estimate>
+<Land_x0020_Area>779000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>PAN</Code>
+<Nation>PANAMA</Nation>
+<Subcont>4C</Subcont>
+<Area>78000</Area>
+<Population>3406000</Population>
+<Year>2005</Year>
+<Capital>Panama City</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Mireya Moscoco *</Leader>
+<InPower>1994</InPower>
+<UN>1945</UN>
+<GDP>26777</GDP>
+<GDPPPP>30569</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>3173000</Estimate>
+<Land_x0020_Area>76000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>PAR</Code>
+<Nation>PARAGUAY</Nation>
+<Subcont>5</Subcont>
+<Area>407000</Area>
+<Population>6348000</Population>
+<Year>2005</Year>
+<Capital>Asuncion</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Juan Carlos Wasmosy</Leader>
+<InPower>1993</InPower>
+<Province>Departamento</Province>
+<UN>1945</UN>
+<GDP>17886</GDP>
+<GDPPPP>21236</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>397000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>PCN</Code>
+<Nation>PITCAIRN ISLAND</Nation>
+<Subcont>6C</Subcont>
+<Area>47</Area>
+<Population>60</Population>
+<Year>2005</Year>
+<Capital>Adamstown</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<Currency>$ NZ</Currency>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>PER</Code>
+<Nation>PERU</Nation>
+<Subcont>5</Subcont>
+<Area>1285000</Area>
+<Population>27926000</Population>
+<Year>2012</Year>
+<Capital>Lima</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Alberto Fujimori</Leader>
+<InPower>1990</InPower>
+<Province>Departamento</Province>
+<UN>1945</UN>
+<Currency>Peso</Currency>
+<GDP>157324</GDP>
+<GDPPPP>173502</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>28921000</Estimate>
+<Land_x0020_Area>1280000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>PHI</Code>
+<Nation>PHILIPPINES</Nation>
+<Subcont>1S</Subcont>
+<Area>300000</Area>
+<Population>96136000</Population>
+<Year>2007</Year>
+<Capital>Manila</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Joseph Estrada</Leader>
+<InPower>1998</InPower>
+<UN>1945</UN>
+<Currency>Peso</Currency>
+<GDP>199591</GDP>
+<GDPPPP>213129</GDPPPP>
+<Language>English, Tagalog</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>PLE</Code>
+<Nation>PALESTINE</Nation>
+<Subcont>1W</Subcont>
+<Area>6000</Area>
+<Population>3762000</Population>
+<Year>2005</Year>
+<Capital>Al-Quds</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Yasser Arafat</Leader>
+<InPower>0</InPower>
+<Province>Governorate</Province>
+<Exchange>0</Exchange>
+<GDP>7349</GDP>
+<Language>Arabic</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>PLW</Code>
+<Nation>PALAU</Nation>
+<Subcont>6D</Subcont>
+<Area>450</Area>
+<Population>20000</Population>
+<Year>2005</Year>
+<Capital>Melekeok</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>see USA</Leader>
+<Province>states</Province>
+<GDP>222</GDP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>22000</Estimate>
+</Nation>
+<Nation>
+<Code>PNG</Code>
+<Nation>PAPUA NEW GUINEA</Nation>
+<Subcont>6A</Subcont>
+<Area>462000</Area>
+<Population>7275000</Population>
+<Year>2010</Year>
+<Capital>Port Moresby</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<Leader>Julius Chan</Leader>
+<InPower>1994</InPower>
+<Province>Province</Province>
+<UN>1975</UN>
+<Currency>Kina</Currency>
+<GDP>9796</GDP>
+<GDPPPP>12655</GDPPPP>
+<Language>English</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>6158000</Estimate>
+<Land_x0020_Area>453000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>POL</Code>
+<Nation>POLAND</Nation>
+<Subcont>2E</Subcont>
+<Area>313000</Area>
+<Population>38512000</Population>
+<Year>2011</Year>
+<Capital>Warszawa</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Lech Kaczynski</Leader>
+<Province>Voivodship</Province>
+<UN>1945</UN>
+<Currency>Zloty</Currency>
+<GDP>469393</GDP>
+<GDPPPP>513821</GDPPPP>
+<Language>Polish</Language>
+<Alternate>Pologne,Polen</Alternate>
+<ProvGroup>P</ProvGroup>
+<Land_x0020_Area>304000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>POR</Code>
+<Nation>PORTUGAL</Nation>
+<Subcont>2W</Subcont>
+<Area>92000</Area>
+<Population>10562000</Population>
+<Year>2011</Year>
+<Capital>Lisboa</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Jose Socrates</Leader>
+<Province>Province</Province>
+<UN>1955</UN>
+<Currency>Escudo</Currency>
+<GDP>228859</GDP>
+<GDPPPP>238880</GDPPPP>
+<Language>Portuguese</Language>
+<ProvGroup>S</ProvGroup>
+</Nation>
+<Nation>
+<Code>PRK</Code>
+<Nation>NORTH KOREA</Nation>
+<Subcont>1E</Subcont>
+<Area>123000</Area>
+<Population>23350000</Population>
+<Year>2008</Year>
+<Capital>Pyongyang</Capital>
+<Government>Communist Republic</Government>
+<Head>1Party</Head>
+<Leader>Kim Jong Il</Leader>
+<InPower>1994</InPower>
+<Province>Province</Province>
+<UN>1991</UN>
+<GDP>12278</GDP>
+<Language>Korean</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>23510000</Estimate>
+</Nation>
+<Nation>
+<Code>PUR</Code>
+<Nation>PUERTO RICO</Nation>
+<Subcont>4W</Subcont>
+<Area>9000</Area>
+<Population>3726000</Population>
+<Year>2010</Year>
+<Capital>San Juan</Capital>
+<Government>US Territory</Government>
+<Leader>see USA</Leader>
+<UN>1999</UN>
+<GDP>99202</GDP>
+<Language>English</Language>
+<Estimate>3992000</Estimate>
+</Nation>
+<Nation>
+<Code>QAT</Code>
+<Nation>QATAR</Nation>
+<Subcont>1W</Subcont>
+<Area>11400</Area>
+<Population>863000</Population>
+<Year>2005</Year>
+<Capital>Doha</Capital>
+<Government>Absolute monarchy</Government>
+<Head>Emir</Head>
+<UN>1971</UN>
+<GDP>127333</GDP>
+<GDPPPP>173847</GDPPPP>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>REU</Code>
+<Nation>REUNION</Nation>
+<Subcont>8</Subcont>
+<Area>2500</Area>
+<Population>830000</Population>
+<Year>2010</Year>
+<Capital>St. Denis</Capital>
+<Government>French Department</Government>
+<Leader>see France</Leader>
+<Province>Arrondissemt</Province>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>803000</Estimate>
+</Nation>
+<Nation>
+<Code>ROM</Code>
+<Nation>ROMANIA</Nation>
+<Subcont>2E</Subcont>
+<Area>237500</Area>
+<Population>20122000</Population>
+<Year>2011</Year>
+<Capital>Bucuresti</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Traian Basescu</Leader>
+<Province>Judet</Province>
+<UN>1955</UN>
+<GDP>161629</GDP>
+<GDPPPP>189776</GDPPPP>
+<Language>Romanian</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>230000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>RSA</Code>
+<Nation>SOUTH AFRICA</Nation>
+<Subcont>3S</Subcont>
+<Area>1222000</Area>
+<Population>51770000</Population>
+<Year>2011</Year>
+<Capital>Pretoria</Capital>
+<Government>Republic</Government>
+<Head>SemiPres</Head>
+<Leader>Thabo Mbeki</Leader>
+<InPower>1999</InPower>
+<Province>Province</Province>
+<UN>1945</UN>
+<Currency>Rand</Currency>
+<GDP>363704</GDP>
+<GDPPPP>408074</GDPPPP>
+<Language>Afrikaans</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>49661000</Estimate>
+</Nation>
+<Nation>
+<Code>RUS</Code>
+<Nation>RUSSIA</Nation>
+<Subcont>2E</Subcont>
+<Area>17075000</Area>
+<Population>142856000</Population>
+<Year>2014</Year>
+<Capital>Moskva</Capital>
+<Government>Federal Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Vladimir Putin</Leader>
+<InPower>2000</InPower>
+<Province>Oblast</Province>
+<UN>1945</UN>
+<Currency>Rouble</Currency>
+<GDP>1479823</GDP>
+<GDPPPP>1850401</GDPPPP>
+<Language>Russian</Language>
+<ProvGroup>S</ProvGroup>
+</Nation>
+<Nation>
+<Code>RWA</Code>
+<Nation>RWANDA</Nation>
+<Subcont>3S</Subcont>
+<Area>26000</Area>
+<Population>10516000</Population>
+<Year>2012</Year>
+<Capital>Kigali</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Pasteur Bizimungu</Leader>
+<InPower>1994</InPower>
+<UN>1962</UN>
+<GDP>5655</GDP>
+<GDPPPP>6179</GDPPPP>
+<Language>French</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>8959000</Estimate>
+<Land_x0020_Area>25000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SAH</Code>
+<Nation>WESTERN SAHARA</Nation>
+<Subcont>3N</Subcont>
+<Area>266000</Area>
+<Population>272000</Population>
+<Year>2005</Year>
+<Capital>El Aiun</Capital>
+<Government>Republic</Government>
+<Head>1Party</Head>
+<UN>1999</UN>
+<Language>Spanish</Language>
+<Estimate>456000</Estimate>
+</Nation>
+<Nation>
+<Code>SAM</Code>
+<Nation>SAMOA</Nation>
+<Subcont>6C</Subcont>
+<Area>3000</Area>
+<Population>181000</Population>
+<Year>2006</Year>
+<Capital>Apia</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<UN>1976</UN>
+<GDP>612</GDP>
+<GDPPPP>630</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>185000</Estimate>
+</Nation>
+<Nation>
+<Code>SBT</Code>
+<Nation>ST. BARTHELEMY</Nation>
+<Subcont>4C</Subcont>
+<Area>21</Area>
+<Population>9000</Population>
+<Year>2010</Year>
+<Capital>Gustavia</Capital>
+<Government>French Collectivity</Government>
+<Leader>see France</Leader>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>French</Language>
+</Nation>
+<Nation>
+<Code>SEN</Code>
+<Nation>SENEGAL</Nation>
+<Subcont>3S</Subcont>
+<Area>197000</Area>
+<Population>11127000</Population>
+<Year>2005</Year>
+<Capital>Dakar</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>A. Wade</Leader>
+<InPower>2000</InPower>
+<Province>regions</Province>
+<UN>1960</UN>
+<GDP>12841</GDP>
+<GDPPPP>14461</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>192000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SER</Code>
+<Nation>SERBIA</Nation>
+<Subcont>2E</Subcont>
+<Area>89000</Area>
+<Population>7187000</Population>
+<Year>2011</Year>
+<Capital>Beograd</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Province>Region</Province>
+<UN>1945</UN>
+<GDP>37713</GDP>
+<GDPPPP>45064</GDPPPP>
+<Language>Serbo-Croat</Language>
+<Alternate>Yugoslavia</Alternate>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>SEY</Code>
+<Nation>SEYCHELLES</Nation>
+<Subcont>8</Subcont>
+<Area>450</Area>
+<Population>91000</Population>
+<Year>2010</Year>
+<Capital>Victoria</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>France Albert Rene</Leader>
+<Province>islands</Province>
+<UN>1976</UN>
+<GDP>991</GDP>
+<GDPPPP>1014</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>85000</Estimate>
+</Nation>
+<Nation>
+<Code>SGS</Code>
+<Nation>South Georgia</Nation>
+<Subcont>7S</Subcont>
+<Area>4000</Area>
+<Population>20</Population>
+<Year>2005</Year>
+<Capital>Grytviken</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>SIN</Code>
+<Nation>SINGAPORE</Nation>
+<Subcont>1S</Subcont>
+<Area>716</Area>
+<Population>5400000</Population>
+<Year>2013</Year>
+<Capital>Singapore</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Goh Chok Tong</Leader>
+<InPower>1990</InPower>
+<UN>1965</UN>
+<GDP>222699</GDP>
+<GDPPPP>259849</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+<Land_x0020_Area>580</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SJM</Code>
+<Nation>Svalbard &amp; Jan Mayen</Nation>
+<Subcont>7N</Subcont>
+<Area>61400</Area>
+<Population>2700</Population>
+<Year>2005</Year>
+<Capital>Longyearben</Capital>
+<Government>Norwegian</Government>
+<Leader>see Norway</Leader>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>Norwegian</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>SKN</Code>
+<Nation>ST. KITTS NEVIS</Nation>
+<Subcont>4W</Subcont>
+<Area>270</Area>
+<Population>46200</Population>
+<Year>2011</Year>
+<Capital>Basseterre</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<UN>1983</UN>
+<GDP>550</GDP>
+<GDPPPP>715</GDPPPP>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>SLE</Code>
+<Nation>SIERRA LEONE</Nation>
+<Subcont>3S</Subcont>
+<Area>72000</Area>
+<Population>6018000</Population>
+<Year>2005</Year>
+<Capital>Freetown</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Valentine Strasser</Leader>
+<InPower>1992</InPower>
+<Province>Province</Province>
+<UN>1961</UN>
+<GDP>2064</GDP>
+<GDPPPP>2196</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>SLO</Code>
+<Nation>SLOVENIA</Nation>
+<Subcont>2E</Subcont>
+<Area>20000</Area>
+<Population>2052000</Population>
+<Year>2011</Year>
+<Capital>Ljubljana</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Danilo Turk</Leader>
+<Province>region</Province>
+<UN>1991</UN>
+<GDP>46906</GDP>
+<GDPPPP>49588</GDPPPP>
+<Language>Slovene</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>SMA</Code>
+<Nation>ST. MAARTEN</Nation>
+<Subcont>4W</Subcont>
+<Area>34</Area>
+<Population>31000</Population>
+<Year>2000</Year>
+<Capital>Philipsburg</Capital>
+<Government>Netherlands</Government>
+<Leader>see Netherlands</Leader>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>English</Language>
+<Estimate>0</Estimate>
+<Land_x0020_Area>0</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SMR</Code>
+<Nation>SAN MARINO</Nation>
+<Subcont>2W</Subcont>
+<Area>60</Area>
+<Population>31000</Population>
+<Year>2008</Year>
+<Capital>San Marino</Capital>
+<Government>Republic</Government>
+<Head>SemiPres</Head>
+<Province>castello</Province>
+<UN>1992</UN>
+<GDP>1487</GDP>
+<Language>Italian</Language>
+</Nation>
+<Nation>
+<Code>SMT</Code>
+<Nation>ST. MARTIN</Nation>
+<Subcont>4C</Subcont>
+<Area>53</Area>
+<Population>37600</Population>
+<Year>2010</Year>
+<Capital>Marigot</Capital>
+<Government>French Collectivity</Government>
+<Leader>see France</Leader>
+<InPower>0</InPower>
+<UN>0</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<Language>French</Language>
+</Nation>
+<Nation>
+<Code>SOL</Code>
+<Nation>SOLOMON ISLANDS</Nation>
+<Subcont>6B</Subcont>
+<Area>28000</Area>
+<Population>528000</Population>
+<Year>2009</Year>
+<Capital>Honiara</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<UN>1978</UN>
+<Currency>Dollar</Currency>
+<GDP>642</GDP>
+<GDPPPP>840</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>SOM</Code>
+<Nation>SOMALIA</Nation>
+<Subcont>3S</Subcont>
+<Area>638000</Area>
+<Population>12300000</Population>
+<Year>2014</Year>
+<Capital>Mogadishu</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>in transition</Leader>
+<InPower>1998</InPower>
+<Province>gobolka</Province>
+<UN>1960</UN>
+<GDP>1071</GDP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>12448000</Estimate>
+<Land_x0020_Area>627000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SPM</Code>
+<Nation>ST. PIERRE &amp; MIQUELON</Nation>
+<Subcont>4W</Subcont>
+<Area>242</Area>
+<Population>6300</Population>
+<Year>2010</Year>
+<Capital>St. Pierre</Capital>
+<Government>French Collectivity</Government>
+<Leader>see France</Leader>
+<Language>French</Language>
+<ProvGroup>I</ProvGroup>
+</Nation>
+<Nation>
+<Code>SRI</Code>
+<Nation>SRI LANKA</Nation>
+<Subcont>1C</Subcont>
+<Area>64400</Area>
+<Population>20278000</Population>
+<Year>2012</Year>
+<Capital>Sri Jayewardenepura Kotte</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Chandrika Bandaraneke *</Leader>
+<InPower>1994</InPower>
+<Province>province</Province>
+<UN>1955</UN>
+<Currency>Rupee</Currency>
+<GDP>49549</GDP>
+<GDPPPP>59095</GDPPPP>
+<Language>English</Language>
+<Alternate>Ceylon</Alternate>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>65610</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SSU</Code>
+<Nation>SOUTH SUDAN</Nation>
+<Subcont>3N</Subcont>
+<Area>619745</Area>
+<Population>8260500</Population>
+<Year>2008</Year>
+<Capital>Juba</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<InPower>0</InPower>
+<UN>2011</UN>
+<Exchange>0</Exchange>
+<GDP>0</GDP>
+<ProvGroup>R</ProvGroup>
+<Estimate>0</Estimate>
+<Land_x0020_Area>0</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>STP</Code>
+<Nation>SAO TOME &amp; PRINCIPE</Nation>
+<Subcont>3S</Subcont>
+<Area>1000</Area>
+<Population>187000</Population>
+<Year>2012</Year>
+<Capital>Sao Tome</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Province>district</Province>
+<UN>1975</UN>
+<GDP>212</GDP>
+<GDPPPP>248</GDPPPP>
+<Language>Portuguese</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>SUD</Code>
+<Nation>SUDAN</Nation>
+<Subcont>3N</Subcont>
+<Area>1839500</Area>
+<Population>30894000</Population>
+<Year>2008</Year>
+<Capital>Khartoum</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Omar al-Bashir</Leader>
+<InPower>1989</InPower>
+<UN>1956</UN>
+<GDP>79480</GDP>
+<GDPPPP>64750</GDPPPP>
+<Language>English</Language>
+<ProvGroup>S</ProvGroup>
+</Nation>
+<Nation>
+<Code>SUI</Code>
+<Nation>SWITZERLAND</Nation>
+<Subcont>2W</Subcont>
+<Area>41000</Area>
+<Population>8139600</Population>
+<Year>2013</Year>
+<Capital>Bern</Capital>
+<Government>Confederation</Government>
+<Head>SemiPres</Head>
+<Province>Canton</Province>
+<UN>2002</UN>
+<Currency>Franc</Currency>
+<GDP>527920</GDP>
+<GDPPPP>636059</GDPPPP>
+<Language>German, French, Ital</Language>
+<Alternate>Helvetia</Alternate>
+<ProvGroup>S</ProvGroup>
+<Estimate>7523000</Estimate>
+<Land_x0020_Area>40000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SUR</Code>
+<Nation>SURINAME</Nation>
+<Subcont>5</Subcont>
+<Area>163000</Area>
+<Population>492000</Population>
+<Year>2004</Year>
+<Capital>Paramaribo</Capital>
+<Government>Republic</Government>
+<Head>SemiPres</Head>
+<UN>1975</UN>
+<GDP>3682</GDP>
+<GDPPPP>3790</GDPPPP>
+<Language>Spanish</Language>
+<Alternate>Dutch Guiana</Alternate>
+<ProvGroup>P</ProvGroup>
+<Estimate>506000</Estimate>
+<Land_x0020_Area>161500</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SVK</Code>
+<Nation>SLOVAKIA</Nation>
+<Subcont>2E</Subcont>
+<Area>49000</Area>
+<Population>5397000</Population>
+<Year>2011</Year>
+<Capital>Bratislava</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Ivan Gasparovic</Leader>
+<Province>Province</Province>
+<UN>1993</UN>
+<GDP>87263</GDP>
+<GDPPPP>96089</GDPPPP>
+<Language>Slovak</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>SWE</Code>
+<Nation>SWEDEN</Nation>
+<Subcont>2W</Subcont>
+<Area>450000</Area>
+<Population>9113000</Population>
+<Year>2006</Year>
+<Capital>Stockholm</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>Magdalena Anderson</Leader>
+<Province>Lan</Province>
+<UN>1946</UN>
+<Currency>Krona</Currency>
+<GDP>458725</GDP>
+<GDPPPP>538237</GDPPPP>
+<Language>Swedish</Language>
+<Alternate>Sverige</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>9108000</Estimate>
+<Land_x0020_Area>411000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>SWZ</Code>
+<Nation>SWAZILAND</Nation>
+<Subcont>3S</Subcont>
+<Area>17000</Area>
+<Population>1174000</Population>
+<Year>2005</Year>
+<Capital>Mbabane</Capital>
+<Government>Absolute monarchy</Government>
+<Head>King</Head>
+<Leader>Mswati III</Leader>
+<InPower>1987</InPower>
+<UN>1968</UN>
+<GDP>3927</GDP>
+<GDPPPP>3947</GDPPPP>
+<Language>English</Language>
+</Nation>
+<Nation>
+<Code>SYR</Code>
+<Nation>SYRIA</Nation>
+<Subcont>1W</Subcont>
+<Area>185000</Area>
+<Population>21377000</Population>
+<Year>2011</Year>
+<Capital>Damascus</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Bashar Assad</Leader>
+<InPower>2000</InPower>
+<Province>Mohafaza</Province>
+<UN>1945</UN>
+<GDP>59834</GDP>
+<Language>Arabic</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>19514000</Estimate>
+<Land_x0020_Area>184000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>TAN</Code>
+<Nation>TANZANIA</Nation>
+<Subcont>3S</Subcont>
+<Area>945000</Area>
+<Population>44929000</Population>
+<Year>2012</Year>
+<Capital>Dodoma</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Cleopa Msuya</Leader>
+<InPower>1994</InPower>
+<Province>Mkoa</Province>
+<UN>1961</UN>
+<GDP>22502</GDP>
+<GDPPPP>23333</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>38870000</Estimate>
+<Land_x0020_Area>886000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>TGA</Code>
+<Nation>TONGA</Nation>
+<Subcont>6C</Subcont>
+<Area>700</Area>
+<Population>112000</Population>
+<Year>2011</Year>
+<Capital>Nuku&apos;alofa</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>King/PM</Head>
+<UN>1981</UN>
+<GDP>369</GDP>
+<GDPPPP>439</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>THA</Code>
+<Nation>THAILAND</Nation>
+<Subcont>1S</Subcont>
+<Area>514000</Area>
+<Population>65619000</Population>
+<Year>2010</Year>
+<Capital>Bangkok</Capital>
+<Government>Constitutional monarchy</Government>
+<Head>PM/King</Head>
+<Leader>Yongchaiyudh</Leader>
+<InPower>1996</InPower>
+<Province>Region</Province>
+<UN>1946</UN>
+<Currency>Baht</Currency>
+<Exchange>43</Exchange>
+<GDP>318850</GDP>
+<GDPPPP>345649</GDPPPP>
+<Language>Thai</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>67249000</Estimate>
+<Land_x0020_Area>512000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>TJK</Code>
+<Nation>TAJIKISTAN</Nation>
+<Subcont>1N</Subcont>
+<Area>143000</Area>
+<Population>7807000</Population>
+<Year>2012</Year>
+<Capital>Dusanbe</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Imomali Rakhmanov</Leader>
+<InPower>1994</InPower>
+<Province>Provinces</Province>
+<UN>1992</UN>
+<Currency>Rouble</Currency>
+<GDP>5613</GDP>
+<GDPPPP>6523</GDPPPP>
+<Language>Tajik</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>TKL</Code>
+<Nation>TOKELAU</Nation>
+<Subcont>6C</Subcont>
+<Area>12</Area>
+<Population>1400</Population>
+<Year>2005</Year>
+<Capital>-</Capital>
+<Government>NZ Territory</Government>
+<Leader>see New Zealand</Leader>
+<Currency>$ NZ</Currency>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>TKM</Code>
+<Nation>TURKMENISTAN</Nation>
+<Subcont>1N</Subcont>
+<Area>488000</Area>
+<Population>6550000</Population>
+<Year>2005</Year>
+<Capital>Aschabad</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Sapamurad Niyazov</Leader>
+<InPower>1990</InPower>
+<Province>Oblast</Province>
+<UN>1992</UN>
+<GDP>23130</GDP>
+<GDPPPP>25742</GDPPPP>
+<Language>Turkmen</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>6887000</Estimate>
+</Nation>
+<Nation>
+<Code>TKS</Code>
+<Nation>TURKS &amp; CAICOS ISLANDS</Nation>
+<Subcont>4W</Subcont>
+<Area>430</Area>
+<Population>31500</Population>
+<Year>2012</Year>
+<Capital>Cockburn Town</Capital>
+<Government>British Dependency</Government>
+<Leader>see Britain</Leader>
+<GDP>1381</GDP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>TLS</Code>
+<Nation>TIMOR LESTE</Nation>
+<Subcont>1S</Subcont>
+<Area>15000</Area>
+<Population>1067000</Population>
+<Year>2010</Year>
+<Capital>Dili</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<InPower>0</InPower>
+<Province>district</Province>
+<UN>2002</UN>
+<Exchange>0</Exchange>
+<GDP>794</GDP>
+<GDPPPP>4315</GDPPPP>
+<Language>Portuguese</Language>
+<Alternate>Timor Leste</Alternate>
+</Nation>
+<Nation>
+<Code>TOG</Code>
+<Nation>TOGO</Nation>
+<Subcont>3S</Subcont>
+<Area>56000</Area>
+<Population>5682000</Population>
+<Year>2005</Year>
+<Capital>Lome</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Edem Kodjo</Leader>
+<InPower>1994</InPower>
+<UN>1960</UN>
+<GDP>3162</GDP>
+<GDPPPP>3611</GDPPPP>
+<Language>French</Language>
+<ProvGroup>P</ProvGroup>
+<Land_x0020_Area>54000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>TPE</Code>
+<Nation>TAIWAN</Nation>
+<Subcont>1E</Subcont>
+<Area>36000</Area>
+<Population>23374000</Population>
+<Year>2013</Year>
+<Capital>Taipei</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Tang Fei</Leader>
+<InPower>2000</InPower>
+<Province>Hsien</Province>
+<UN>1999</UN>
+<Currency>Yuan</Currency>
+<GDP>0</GDP>
+<GDPPPP>466832</GDPPPP>
+<Language>Chinese</Language>
+<Alternate>R.O.C.</Alternate>
+<ProvGroup>R</ProvGroup>
+<Estimate>23001000</Estimate>
+<Land_x0020_Area>32000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>TRI</Code>
+<Nation>TRINIDAD &amp; TOBAGO</Nation>
+<Subcont>4W</Subcont>
+<Area>5000</Area>
+<Population>1089000</Population>
+<Year>2005</Year>
+<Capital>Port-of-Spain</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Patrick Manning</Leader>
+<InPower>1991</InPower>
+<UN>1962</UN>
+<GDP>20397</GDP>
+<GDPPPP>22707</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>1330000</Estimate>
+</Nation>
+<Nation>
+<Code>TUN</Code>
+<Nation>TUNISIA</Nation>
+<Subcont>3N</Subcont>
+<Area>164000</Area>
+<Population>10075000</Population>
+<Year>2005</Year>
+<Capital>Tunis</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Zine Ben Ali</Leader>
+<InPower>1987</InPower>
+<UN>1956</UN>
+<GDP>44252</GDP>
+<GDPPPP>46360</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>10342000</Estimate>
+<Land_x0020_Area>155000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>TUR</Code>
+<Nation>TURKEY</Nation>
+<Subcont>1W</Subcont>
+<Area>781000</Area>
+<Population>69661000</Population>
+<Year>2005</Year>
+<Capital>Ankara</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<Leader>Recep Tayyip Erdogan</Leader>
+<InPower>2003</InPower>
+<Province>Iller</Province>
+<UN>1945</UN>
+<Currency>Lira</Currency>
+<GDP>734440</GDP>
+<GDPPPP>778089</GDPPPP>
+<Language>Turkish</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>75864000</Estimate>
+<Land_x0020_Area>771000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>TUV</Code>
+<Nation>TUVALU</Nation>
+<Subcont>6C</Subcont>
+<Area>26</Area>
+<Population>12000</Population>
+<Year>2005</Year>
+<Capital>Vaiaku</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<Province>Council</Province>
+<Currency>$ Australian</Currency>
+<GDP>31</GDP>
+<GDPPPP>35</GDPPPP>
+<Language>English</Language>
+<Alternate>Ellice Islands</Alternate>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>UAE</Code>
+<Nation>UNITED ARAB EMIRATES</Nation>
+<Subcont>1W</Subcont>
+<Area>84000</Area>
+<Population>2563000</Population>
+<Year>2005</Year>
+<Capital>Abu Dhabi</Capital>
+<Government>Absolute monarchy</Government>
+<Head>Emir</Head>
+<Leader>Maktum al-Maktum</Leader>
+<InPower>1990</InPower>
+<Province>Emirate</Province>
+<UN>1991</UN>
+<GDP>297648</GDP>
+<GDPPPP>360136</GDPPPP>
+<Language>Arabic</Language>
+<Alternate>Trucial Oman</Alternate>
+<ProvGroup>P</ProvGroup>
+<Estimate>3982000</Estimate>
+</Nation>
+<Nation>
+<Code>UGA</Code>
+<Nation>UGANDA</Nation>
+<Subcont>3S</Subcont>
+<Area>236000</Area>
+<Population>34634000</Population>
+<Year>2014</Year>
+<Capital>Kampala</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Yoweri Museveni</Leader>
+<InPower>1986</InPower>
+<UN>1962</UN>
+<GDP>17015</GDP>
+<GDPPPP>16810</GDPPPP>
+<Language>English</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>28575000</Estimate>
+<Land_x0020_Area>200000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>UKR</Code>
+<Nation>UKRAINE</Nation>
+<Subcont>2E</Subcont>
+<Area>604000</Area>
+<Population>45425000</Population>
+<Year>2014</Year>
+<Capital>Kiev</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Leonid Kuchma</Leader>
+<InPower>1994</InPower>
+<Province>Oblast</Province>
+<UN>1945</UN>
+<GDP>137936</GDP>
+<GDPPPP>164960</GDPPPP>
+<Language>Ukrainian</Language>
+<ProvGroup>P</ProvGroup>
+</Nation>
+<Nation>
+<Code>UMI</Code>
+<Nation>U.S. Minor Pacific Islands</Nation>
+<Subcont>6D</Subcont>
+<Area>45</Area>
+<Population>190</Population>
+<Year>2010</Year>
+<Capital>-</Capital>
+<Government>US Territory</Government>
+<Leader>see USA</Leader>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>URU</Code>
+<Nation>URUGUAY</Nation>
+<Subcont>5</Subcont>
+<Area>178000</Area>
+<Population>3286000</Population>
+<Year>2011</Year>
+<Capital>Montevideo</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Julio Sanguinetti</Leader>
+<InPower>1995</InPower>
+<UN>1945</UN>
+<Currency>Peso</Currency>
+<GDP>40265</GDP>
+<GDPPPP>46872</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>P</ProvGroup>
+<Estimate>3416000</Estimate>
+<Land_x0020_Area>174000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>USA</Code>
+<Nation>U.S.A.</Nation>
+<Subcont>4N</Subcont>
+<Area>9629000</Area>
+<Population>308745000</Population>
+<Year>2010</Year>
+<Capital>Washington</Capital>
+<Government>Federal Republic</Government>
+<Head>Pres</Head>
+<Leader>George W Bush</Leader>
+<InPower>2001</InPower>
+<Province>State</Province>
+<UN>1945</UN>
+<Currency>Dollar</Currency>
+<GDP>14447100</GDP>
+<GDPPPP>15094025</GDPPPP>
+<Language>English</Language>
+<ProvGroup>S</ProvGroup>
+<Estimate>301968000</Estimate>
+<Land_x0020_Area>9159000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>UZB</Code>
+<Nation>UZBEKISTAN</Nation>
+<Subcont>1N</Subcont>
+<Area>446000</Area>
+<Population>30492000</Population>
+<Year>2014</Year>
+<Capital>Tashkent</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Islam Karimov</Leader>
+<InPower>1990</InPower>
+<Province>viloyati</Province>
+<UN>1992</UN>
+<Currency>Rouble</Currency>
+<Exchange>538</Exchange>
+<GDP>39173</GDP>
+<GDPPPP>45353</GDPPPP>
+<Language>Uzbek</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>28247000</Estimate>
+<Land_x0020_Area>425000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>VAN</Code>
+<Nation>VANUATU</Nation>
+<Subcont>6B</Subcont>
+<Area>12000</Area>
+<Population>206000</Population>
+<Year>2005</Year>
+<Capital>Port Vila</Capital>
+<Government>Republic</Government>
+<Head>PM/Pres</Head>
+<UN>1981</UN>
+<GDP>710</GDP>
+<GDPPPP>743</GDPPPP>
+<Language>English</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>223000</Estimate>
+</Nation>
+<Nation>
+<Code>VAT</Code>
+<Nation>VATICAN CITY</Nation>
+<Subcont>2W</Subcont>
+<Area>1</Area>
+<Population>830</Population>
+<Year>2010</Year>
+<Capital>Rome</Capital>
+<Government>Absolute monarchy</Government>
+<Head>Pope</Head>
+<Leader>Pope</Leader>
+<Language>Italian</Language>
+</Nation>
+<Nation>
+<Code>VEN</Code>
+<Nation>VENEZUELA</Nation>
+<Subcont>5</Subcont>
+<Area>912000</Area>
+<Population>27828000</Population>
+<Year>2011</Year>
+<Capital>Caracas</Capital>
+<Government>Federal Republic</Government>
+<Head>Pres</Head>
+<Leader>Hogu Chavez Frias</Leader>
+<InPower>1998</InPower>
+<Province>Estado</Province>
+<UN>1945</UN>
+<Currency>Bolivar</Currency>
+<Exchange>70</Exchange>
+<GDP>391307</GDP>
+<GDPPPP>315841</GDPPPP>
+<Language>Spanish</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>25772000</Estimate>
+<Land_x0020_Area>882000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>VIE</Code>
+<Nation>VIETNAM</Nation>
+<Subcont>1S</Subcont>
+<Area>334000</Area>
+<Population>85789000</Population>
+<Year>2009</Year>
+<Capital>Hanoi</Capital>
+<Government>Communist Republic</Government>
+<Head>1Party</Head>
+<Leader>Phan Van Khai</Leader>
+<InPower>1997</InPower>
+<Province>Region</Province>
+<UN>1977</UN>
+<GDP>103902</GDP>
+<GDPPPP>122722</GDPPPP>
+<Language>Vietnamese</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>85031000</Estimate>
+<Land_x0020_Area>325000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>VIN</Code>
+<Nation>ST. VINCENT &amp; GRENADINES</Nation>
+<Subcont>4W</Subcont>
+<Area>390</Area>
+<Population>118000</Population>
+<Year>2005</Year>
+<Capital>Kingstown</Capital>
+<Government>Commonwealth Realm</Government>
+<Head>PM/Queen</Head>
+<UN>1980</UN>
+<GDP>675</GDP>
+<GDPPPP>695</GDPPPP>
+<Language>English</Language>
+<ProvGroup>I</ProvGroup>
+<Estimate>126000</Estimate>
+</Nation>
+<Nation>
+<Code>WAF</Code>
+<Nation>WALLIS &amp; FUTUNA</Nation>
+<Subcont>6C</Subcont>
+<Area>211</Area>
+<Population>13000</Population>
+<Year>2013</Year>
+<Capital>Mata-Utu</Capital>
+<Government>French Territory</Government>
+<Leader>see France</Leader>
+<Language>French</Language>
+<ProvGroup>R</ProvGroup>
+</Nation>
+<Nation>
+<Code>YEM</Code>
+<Nation>YEMEN</Nation>
+<Subcont>1W</Subcont>
+<Area>457000</Area>
+<Population>20727000</Population>
+<Year>2005</Year>
+<Capital>San&apos;a</Capital>
+<Government>Republic</Government>
+<Head>Pres/PM</Head>
+<Leader>Ali Abdullah Saleh</Leader>
+<InPower>1990</InPower>
+<Province>Governorates</Province>
+<UN>1947</UN>
+<Currency>Yemeni Dinar</Currency>
+<Exchange>0.8</Exchange>
+<GDP>34569</GDP>
+<GDPPPP>33675</GDPPPP>
+<Language>Arabic</Language>
+<ProvGroup>R</ProvGroup>
+<Estimate>21306000</Estimate>
+</Nation>
+<Nation>
+<Code>ZAM</Code>
+<Nation>ZAMBIA</Nation>
+<Subcont>3S</Subcont>
+<Area>753000</Area>
+<Population>13093000</Population>
+<Year>2010</Year>
+<Capital>Lusaka</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Frederick Chiluba</Leader>
+<InPower>1991</InPower>
+<UN>1964</UN>
+<GDP>16201</GDP>
+<GDPPPP>19206</GDPPPP>
+<Language>English</Language>
+<Alternate>Northern Rhodesia</Alternate>
+<ProvGroup>P</ProvGroup>
+<Estimate>11487000</Estimate>
+<Land_x0020_Area>740000</Land_x0020_Area>
+</Nation>
+<Nation>
+<Code>ZIM</Code>
+<Nation>ZIMBABWE</Nation>
+<Subcont>3S</Subcont>
+<Area>391000</Area>
+<Population>13061000</Population>
+<Year>2012</Year>
+<Capital>Harare</Capital>
+<Government>Republic</Government>
+<Head>Pres</Head>
+<Leader>Robert Mugabe</Leader>
+<InPower>1987</InPower>
+<Province>Province</Province>
+<UN>1980</UN>
+<GDP>7204</GDP>
+<GDPPPP>9323</GDPPPP>
+<Language>English</Language>
+<Alternate>Rhodesia</Alternate>
+<ProvGroup>R</ProvGroup>
+<Land_x0020_Area>387000</Land_x0020_Area>
+</Nation>
+</dataroot>

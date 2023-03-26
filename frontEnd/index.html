@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>World Heritage Search</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <div class="topnav">
+            <a class="active" href="#/getAll">World Heritage Search</a>
+
+            
+        
+            <div class="search-container">
+                <h3>Search By Name</h3>
+                <form role="search" id="nameForm">
+                    <input type="search" id="nameQuery" name="q" placeholder="Site Name...">
+                </form>
+            </div>
+            <div class="search-container">
+                <h3>Search By Location</h3>
+                <form role="search" id="locationForm">
+                    <input type="search" id="locationQuery" name="q" placeholder="Site Region...">
+                </form>
+            </div>
+            <div class="dropdown">
+                <div class="dropdown" id="locationDropdown"></div>
+            </div>
+        </div>
+
+        <!-- main container for content -->
+        <section id="section"></section>
+
+    </body>
+    <script src="script.js"></script>
+</html>

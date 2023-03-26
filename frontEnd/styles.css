@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #131720;
+    font-family: sans-serif;
+    align-items: center;
+}
+
+h3, h5{
+    color: white;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #131720;
+    padding: 10px;
+    margin: auto;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 13px 16px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.topnav .search-container {
+    float: right;
+}
+
+form {
+    background-color: #151f30;
+    width: 300px;
+    height: 43px;
+    border-radius: 11px;
+    display: flex;
+    align-items: center;
+}
+
+input {
+    all: unset;
+    font: 15px system-ui;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 6px 9px;
+}
+
+.thumbnail {
+    height: 300px;
+    width: 390px;
+    border-radius: 19px;
+}
+
+.colomn {
+    float: left;
+    width: 25%;
+    padding: 10px 10px;
+}
+
+.card {
+    border-radius: 19px;
+    padding: 15px;
+    text-align: center;
+    background-color: #151f30;
+    height: 500px;
+}
+
+.singleCard {
+    border-radius: 19px;
+    padding: 15px;
+    /* text-align: center; */
+    background-color: #151f30;
+    width: 600px;
+    height: 700px;
+}
+
+.title {
+    color: #fff;
+}
+
+.description {
+    color: white;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+}
+
+.center {
+    align-items: center;
+}
+
+/* dropdown styling */
+
+.dropbtn {
+    background-color: #04aa6d;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+#myInput {
+    box-sizing: border-box;
+    background-image: url('./searchicon.png');
+    background-size: 20px;
+    background-color: rgb(83, 85, 84);
+    background-position: 14px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 20px 12px 45px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+#myInput:focus {outline: 3px solid #ddd}
+
+.dropdown {
+    padding-right: 25px;
+    position: absolute;
+    display: inline-block;
+    z-index: 1;
+}
+
+.dropdown-content {
+    display: none;
+    position: relative;
+    background-color: #f6f6f6;
+    width: 180px;
+    overflow: auto;
+    border: 1px solid rgb(165, 163, 163);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color:rgb(80, 79, 79);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: grid;
+}
+
+.dropdown a:hover {background-color: rgb(170, 166, 166);}
+
+.show {display: block;}
